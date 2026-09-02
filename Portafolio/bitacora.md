@@ -4,4 +4,4 @@ Semana 5 - Operaciones de modelado solido
 - Operaciones que retiran o modifican material: se llaman "Extruir, Agujero, Chaflan y Empalme".
 - Diferencia entre chaflan y redondeo: El chaflán deja una arista recta en forma de bisel, mientras que el redondeo crea una curva.
 - Error o comprobación realizada: comprobé la operación de redondeo y cambié temporalmente el valor de 3 mm a 2 mm para observar el cambio en la pieza. Se notó que la curva de la parte inferior se hacía un poco más pequeña pero después volví a dejarla en el valor en 3 mm.
-- Corrección o resultado observado: al revisar la pieza comprobé que las medidas y las operaciones estuvieran correctas. No fue necesario hacer una corrección, ya que al final el modelo quedó con el chaflán de 2 mm y el redondeo de 3 mm, sin errores.
+- Corrección o resultado observado: revisé la pieza y que las medidas y las operaciones estuvieran correctas. No fue necesario hacer una corrección, ya que al final el modelo quedó con el chaflán de 2 mm y el redondeo de 3 mm, sin errores.
