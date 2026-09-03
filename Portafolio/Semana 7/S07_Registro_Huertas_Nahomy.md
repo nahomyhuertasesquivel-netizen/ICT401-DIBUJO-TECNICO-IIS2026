@@ -35,7 +35,7 @@ Seleccione una arista completa y anote su longitud en milímetros. Identifique f
 
 ### Evidencia del modelo y de una medición
 
-![P1: modelo completo en mi copia de Fusion](S07_P1_Modelo_Apellido_Nombre.png)
+![P1: modelo completo en mi copia de Fusion](S07_P1_Modelo_Huertas_Nahomy.png)
 
 ![P1: arista seleccionada y longitud visible en Measure](S07_P1_Medida_Huertas_Nahomy.png)
 
