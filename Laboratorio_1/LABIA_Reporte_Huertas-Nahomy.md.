@@ -1,0 +1,9 @@
+# Laboratorio integrador I-A
+- Archivo en Fusion Cloud: ICT401_LABIA_Huertas_Nahomy
+- Version final: Entrega Laboratorio IA
+## Estrategia y comprobacion 
+La estrategia utilizada de inicio fue con la creación de un boceto rectangular centrado y su extrusión para formar la placa base, con medidas de 80 x 50 x 10
+Luego, sobre la cara superior, se construyó un resalte circular, que mantenia su posición unida a la base. 
+Después se agregaron el rebaje anular y la perforación axial, finalizando con el chaflán y el fillet. Para verificar la comprobación de editabilidad,
+modifiqué temporalmente la medida principal de 80 mm a 84 mm deformandose/extendiendose. El modelo se actualizó correctamente y, al regresar a 80 mm, conservó 
+su geometría inicial.
