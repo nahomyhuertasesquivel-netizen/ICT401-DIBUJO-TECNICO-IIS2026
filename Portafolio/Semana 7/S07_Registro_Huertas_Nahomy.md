@@ -17,9 +17,9 @@ Escriba la predicción antes de seleccionar la vista en Fusion. No borre una pre
 
 | Vista | Predicción sobre el escalón | ¿Qué observé al seleccionarla? |
 |---|---|---|
-| Front | [Predicción] | [Comprobación] |
-| Top | [Predicción] | [Comprobación] |
-| Right | [Predicción] | [Comprobación] |
+| Front | [El escalón se verá como silueta, formando una figura en L. Las dimensiones que aparecerán serán la longitud horizontal y la altura vertical.] | [Sí se confirmó. Al seleccionar Frontal, se observa el escalón como parte de la silueta y aparecen las dimensiones horizontal y vertical] |
+| Top | [El escalón se verá como una línea interior, porque desde arriba se observa el cambio entre la parte alta y la parte baja. Las dimensiones serán la longitud horizontal y la profundidad.] | [Sí se confirmó. En la vista Superior, el escalón aparece como una línea interior y se observan las dimensiones de largo y profundidad.] |
+| Right | [El escalón se verá principalmente como una línea interior horizontal, mostrando el cambio de altura. Las dimensiones serán la profundidad horizontal y la altura vertical.] | [Sí se confirmó. La vista Derecha permite observar la profundidad y la altura, y el cambio de nivel aparece como línea interior.] |
 
 ### Medidas verificadas con Inspect > Measure
 
@@ -27,11 +27,11 @@ Seleccione una arista completa y anote su longitud en milímetros. Identifique f
 
 | Dato | Longitud medida (mm) | ¿Qué arista seleccioné? |
 |---|---:|---|
-| Ancho total | [Valor] | [Descripción] |
-| Profundidad | [Valor] | [Descripción] |
-| Altura máxima | [Valor] | [Descripción] |
-| Altura de la parte baja | [Valor] | [Descripción] |
-| Ancho de la parte alta | [Valor] | [Descripción] |
+| Ancho total | [60mm] | [Arista frontal vertical izquierda] |
+| Profundidad | [30mm] | [Arista longitudinal paralera a Y] |
+| Altura máxima | [40mm] | [Arista Vertical exterior lado alto] |
+| Altura de la parte baja | [20mm] | [Arista vertical exterior lado bajo] |
+| Ancho de la parte alta | [20mm] | [Arista superior frontal sector alto] |
 
 ### Evidencia del modelo y de una medición
 
@@ -39,10 +39,10 @@ Seleccione una arista completa y anote su longitud en milímetros. Identifique f
 
 ![P1: arista seleccionada y longitud visible en Measure](S07_P1_Medida_Apellido_Nombre.png)
 
-- Vistas que comparten ancho: [Respuesta].
-- Vistas que comparten altura: [Respuesta].
-- Vistas que comparten profundidad: [Respuesta].
-- Corrección realizada durante la revisión: [Una frase o “no fue necesaria”, con justificación].
+- Vistas que comparten ancho: [Frontal y superior].
+- Vistas que comparten altura: [Frontal y derecha].
+- Vistas que comparten profundidad: [Superior y derecha].
+- Corrección realizada durante la revisión: [No fue necesaria, ya que las predicciones coincidieron con las vistas y medidas obtenidas de Fusion.].
 
 ## P2 — Vistas principales obtenidas en Fusion
 
