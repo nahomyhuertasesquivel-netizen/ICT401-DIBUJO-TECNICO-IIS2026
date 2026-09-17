@@ -58,11 +58,11 @@ La vista Front permitió detectar la corrección, ya que al compararla con el mo
 
 Modelo parcial o final en orientación pictórica, con nombre del diseño y ViewCube visibles.
 
-![P1: Modelo](S09_P1_Modelo_Apellido_Nombre.png)
+![P1: Modelo](S09_P1_Modelo_Huertas_Nahomy.png)
 
 Captura donde se vea el Sketch, dimensión u operación que mejor representa la estrategia seguida.
 
-![P1: Estrategia](S09_P1_Estrategia_Apellido_Nombre.png)
+![P1: Estrategia](S09_P1_Estrategia_Huertas_Nahomy.png)
 
 ---
 
