@@ -121,7 +121,7 @@ Si alguna dimensión principal de la pieza cambiara, se tendría que modificar e
 
 Modelo completo en orientación pictórica, con nombre del diseño y ViewCube visibles.
 
-![Lab I-B: Modelo final](S09_LabIB_Modelo_Huertas_Nahomy.png)
+![Lab I-B: Modelo final](S09_LabIB_Modelo_Huertas-Nahomy.png)
 
 ### D2 · Vistas de verificación
 
