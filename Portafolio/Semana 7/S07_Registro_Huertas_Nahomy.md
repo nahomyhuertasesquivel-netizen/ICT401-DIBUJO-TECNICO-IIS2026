@@ -50,22 +50,23 @@ Las capturas documentan orientación y correspondencia. **Este montaje no es un 
 
 | Lateral derecha | Frontal |
 |---|---|
-| ![Right de Fusion](S07_P2_Derecha_Apellido_Nombre.png) | ![Front de Fusion](S07_P2_Frontal_Apellido_Nombre.png) |
-| Sin vista en esta posición | **Superior** <br> ![Top de Fusion](S07_P2_Superior_Apellido_Nombre.png) |
+| ![Right de Fusion](S07_P2_Derecha_Huertas_Nahomy.png) | ![Front de Fusion](S07_P2_Frontal_Huertas_Nahomy.png) |
+| Sin vista en esta posición | **Superior** <br> ![Top de Fusion](S07_P2_Superior_Huertas_Nahomy.png) |
 
 ### Correspondencias comprobadas
 
 | Par de vistas | Dimensión compartida | Valor comprobado en el modelo |
 |---|---|---:|
-| Frontal y superior | [Dimensión] | [mm] |
-| Frontal y lateral derecha | [Dimensión] | [mm] |
-| Superior y lateral derecha | [Dimensión] | [mm] |
+| Frontal y superior | Ancho | 60 mm |
+| Frontal y lateral derecha | Altura | 40 mm |
+| Superior y lateral derecha | Profundidad | [30 mm |
 
-- La línea interior de la vista superior representa: [Respuesta].
-- La línea horizontal de la lateral derecha representa: [Respuesta].
-- Una esquina del ViewCube no produce una vista principal porque: [Respuesta].
-- La lateral derecha se sitúa a la izquierda en este registro porque: [Respuesta].
-- Corrección realizada después del punto de control: [Respuesta].
+- La línea interior de la vista superior representa: el cambio de nivel del escalón, como la separación entre la parte alta y la parte baja de la pieza.
+- La línea horizontal de la lateral derecha representa: el cambio de altura del escalón, entre la zona de 20 mm de altura y la zona de 40 mm.
+- Una esquina del ViewCube no produce una vista principal porque: una esquina combina dos direcciones de observación y las vistas principales se obtienen mediante las caras Frontal, superior y derecha.
+- La lateral derecha se sitúa a la izquierda en este registro porque: se está utilizando una proyección donde la vista lateral derecha se coloca a la izquierda de la frontal.
+- Corrección realizada después del punto de control: Se corrigió la disposición de las vistas para colocar la lateral derecha a la izquierda de la frontal y la superior debajo de la frontal.
+
 
 ## P3 — Auditoría usando el modelo
 
@@ -73,24 +74,24 @@ Use los casos A, B y C incluidos en la guía. Reutilice las capturas P2 como evi
 
 ### Caso A
 
-- Hipótesis inicial: [Respuesta].
-- Acción realizada en Fusion para comprobarla: [Respuesta].
-- Error confirmado y corrección justificada: [Una o dos frases].
+- Hipótesis inicial: Pensé que el error podía ser que se había escogido una dirección diferente a la vista frontal correcta.
+- Acción realizada en Fusion para comprobarla: Seleccioné la vista Frontal en el ViewCube y la comparé con la referencia.
+- Error confirmado y corrección justificada: Confirmé que el problema era el cambio de orientación con respecto a la vista frontal de referencia, lo corregí volviendo a seleccionar la vista Frontal, sin modificar la pieza.
 - Evidencia: vista frontal de P2.
 
 ### Caso B
 
-- Hipótesis inicial: [Respuesta].
-- Acción realizada en Fusion y dimensión comprobada: [Respuesta].
-- Error confirmado y corrección justificada: [Una o dos frases].
-- ¿Por qué este caso a escala común no equivale al zoom distinto de mis capturas?: [Respuesta].
+- Hipótesis inicial: Que el error podía estar en la dirección del ancho entre la vista frontal y la superior.
+- Acción realizada en Fusion y dimensión comprobada: Cambié entre las vistas Frontal y Superior y comprobé que el ancho compartido es de 60 mm.
+- Error confirmado y corrección justificada: Confirmé que era un error de correspondencia entre las vistas, la corrección es mantener el mismo ancho en ambas vistas según el modelo.
+- ¿Por qué este caso a escala común no equivale al zoom distinto de mis capturas?: Porque que las capturas tengan diferente zoom no significa que las medidas sean diferentes, el zoom solo cambia cómo se ve la pieza en la pantalla, mientras que las dimensiones reales siguen siendo las mismas.
 - Evidencia: vistas frontal y superior de P2.
 
 ### Caso C
 
-- Hipótesis inicial: [Respuesta].
-- Acción realizada en Fusion para comprobarla: [Respuesta].
-- Error confirmado y corrección justificada: [Una o dos frases].
+- Hipótesis inicial: Pensé que la característica circular que aparecía en el dibujo podía no existir realmente en la pieza.
+- Acción realizada en Fusion para comprobarla: Revisé la vista Superior y también hice una órbita para observar mejor la parte superior del sólido.
+- Error confirmado y corrección justificada: Confirmé que esa característica circular no existeen el modelo, por eso se debe utilizar la vista superior real de Fusion y no considerar esa línea como parte de la pieza.
 - Evidencia: vista superior de P2.
 
 ## Verificación de entrega
