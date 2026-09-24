@@ -59,11 +59,11 @@ Una característica tridimensional que se puede identificar es el escalón super
 
 Modelo completo en orientación pictórica, ViewCube y nombre de su copia visibles.
 
-![P1: Modelo](S08_P1_Modelo_Apellido_Nombre.png)
+![P1: Modelo](S08_P1_Modelo_Huertas_Nahomy.png)
 
 Un montaje de tres capturas de Fusion: Right a la izquierda, Front a la derecha y Top debajo de Front; etiquetas y cuerpo completo visibles.
 
-![P1: Vistas](S08_P1_Vistas_Apellido_Nombre.png)
+![P1: Vistas](S08_P1_Vistas_Huertas_Nahomy.png)
 
 
 ## P2 — De las vistas al modelo mental
@@ -107,7 +107,7 @@ Sí, mi selección inicial fue correcta. El modelo B coincide con las vistas de 
 
 Modelo correcto proporcionado por el docente durante la comprobación, en orientación pictórica, con nombre y ViewCube visibles.
 
-![P2: Seleccion](S08_P2_Seleccion_Apellido_Nombre.png)
+![P2: Seleccion](S08_P2_Seleccion_Huertas_Nahomy.png)
 
 
 ## P3 — Detectives de vistas
@@ -146,7 +146,7 @@ Documenté el caso A en la captura. El detalle que demuestra el error es que una
 
 Una vista de Fusion que compruebe uno de los errores; nombre y ViewCube visibles. Para el caso B, incluya Measure con la arista completa y su longitud.
 
-![P3: Error](S08_P3_Error_Apellido_Nombre.png)
+![P3: Error](S08_P3_Error_Huertas_Nahomy.png)
 
 
 ## P4 — Reconstrucción 3D guiada
