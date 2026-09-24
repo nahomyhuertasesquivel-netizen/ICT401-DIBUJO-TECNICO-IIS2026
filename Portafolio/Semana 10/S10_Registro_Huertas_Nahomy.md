@@ -54,11 +54,11 @@ Primero revisé el modelo 3D para identificar sus formas principales y los cambi
 
 Captura de las vistas ortogonales generadas desde el modelo.
 
-![P1: Vistas](S10_P1_Vistas_Apellido_Nombre.png)
+![P1: Vistas](S10_P1_Vistas_Huertas_Nahomy.png)
 
 Modelo 3D en orientación isométrica con nombre y ViewCube visibles.
 
-![P1: Modelo](S10_P1_Modelo_Apellido_Nombre.png)
+![P1: Modelo](S10_P1_Modelo_Huertas_Nahomy.png)
 
 ---
 
@@ -91,7 +91,7 @@ Sí, la escala 2:1 permite visualizar las tres vistas con claridad y leer las di
 
 Captura del Drawing con las tres vistas insertadas y alineadas.
 
-![P2: Plano](S10_P2_Plano_Apellido_Nombre.png)
+![P2: Plano](S10_P2_Plano_Huertas_Nahomy.png)
 
 ---
 
@@ -101,40 +101,40 @@ Captura del Drawing con las tres vistas insertadas y alineadas.
 
 | Dimensión | Valor | Vista donde se colocó | Justificación |
 |---|---|---|---|
-| Ancho total (X) | [Respuesta] | [Respuesta] | [Respuesta] |
-| Profundidad total (Y) | [Respuesta] | [Respuesta] | [Respuesta] |
-| Altura total (Z) | [Respuesta] | [Respuesta] | [Respuesta] |
+| Ancho total (X) | 72mm | Frontal | Indica el largo total de la pieza. |
+| Profundidad total (Y) | 36mm  | Superior | Permite apreciar la profundidad completa. |
+| Altura total (Z) | 36mm | Frontal | Permite identificar la altura máxima de la pieza. |
 
 ### P3.2 · Dimensiones parciales y funcionales
 
 | Característica | Dimensión | Valor | Vista | ¿Repetida en otra vista? |
 |---|---|---|---|---|
-| [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
+| Escalón | Largo del escalón | 28 mm | Frontal | No |
+| Perforación | Diámetro | 12 mm | Superior | No |
+| Perforación | Posición del centro | (14, 18) mm | Superior | No |
+| Base | Altura | 12 mm | Frontal | No |
 
 ### P3.3 · ¿Eliminó alguna cota por redundante? ¿Cuál?
 
-[Respuesta]
+Sí, se quitaron las cotas que repetían información ya indicada en otra vista, para evitar que el plano tuviera medidas innecesarias.
 
 ### P3.4 · ¿Alguna dimensión quedó dentro del contorno de la vista? ¿Qué hizo al respecto?
 
-[Respuesta]
+Sí, cuando alguna cota quedaba dentro del contorno, se desplazó hacia el exterior para que las medidas fueran más fáciles de leer.
 
 ### P3.5 · ¿Qué criterio de organización utilizó para disponer las cotas?
 
-[Respuesta]
+Las cotas se organizaron fuera del contorno de la pieza y de forma ordenada, colocando cada dimensión en la vista donde se entiende mejor y evitando repetir medidas.
 
 ### Evidencias P3
 
 Captura del Drawing con las cotas aplicadas.
 
-![P3: Cotización](S10_P3_Cotizacion_Apellido_Nombre.png)
+![P3: Cotización](S10_P3_Cotizacion_Huertas_Nahomy.png)
 
 Detalle de una zona del plano donde se aprecie la organización de las cotas.
 
-![P3: Detalle](S10_P3_Detalle_Apellido_Nombre.png)
+![P3: Detalle](S10_P3_Detalle_Huertas_Nahomy.png)
 
 ---
 
@@ -142,45 +142,44 @@ Detalle de una zona del plano donde se aprecie la organización de las cotas.
 
 ### P4.1 · Pieza documentada
 
-- Nombre del diseño: [Respuesta]
-- Pieza de referencia: [Respuesta]
+- Nombre del diseño: ICT401_S10_P3_Huertas_Nahomy
+- Pieza de referencia: S09_P3_Modelo_Huertas_Nahomy
 
 ### P4.2 · Vistas generadas
 
 | Vista | Información que comunica | Cotas asignadas |
 |---|---|---|
-| Front | [Respuesta] | [Respuesta] |
-| Top | [Respuesta] | [Respuesta] |
-| Right | [Respuesta] | [Respuesta] |
+| Front | [Elevación principal: ancho total, altura total, escalón y resalte] | [80, 32, 12, 45] |
+| Top | [Elevación principal: ancho total, altura total, escalón y resalte.] | [50, 12, 22, 30, 60, 12, 16, 8, 15] |
+| Right | [Perfil lateral: contornos y detalles internos,líneas ocultas] | [Ninguna] |
 
 ### P4.3 · Resumen de cotas aplicadas
 
 | Tipo de dimensión | Cantidad | Ejemplo |
 |---|---|---|
-| Generales | [Respuesta] | [Respuesta] |
-| Parciales | [Respuesta] | [Respuesta] |
-| Funcionales | [Respuesta] | [Respuesta] |
-
+| Generales | [3] | [Ancho 80, Profundidad 50, Altura 32] |
+| Parciales | [4] | [Resalte 45, Escalón 12, Ranura 12, 16] |
+| Funcionales | [3] | [Diámetro 12, Posición del agujero 22, 30] |
 ### P4.4 · ¿El plano contiene información suficiente para fabricar la pieza? ¿Falta algo?
 
-[Respuesta]
+El plano contiene las dimensiones principales y las características necesarias para representar la pieza pero para una fabricar completa la pieza podrían faltar algunos detalles como las tolerancias.
 
 ### P4.5 · Errores encontrados y correcciones realizadas
 
 | Error detectado | Corrección aplicada | Vista afectada |
 |---|---|---|
-| [Respuesta] | [Respuesta] | [Respuesta] |
-| [Respuesta] | [Respuesta] | [Respuesta] |
+| [Cotas solapadas/confusas 8 y 15.] | [Reorganizar y mover fuera del dibujo]  | [Superior] |
+| [Riesgo de acotar líneas ocultas] | [Mantener cotas solo en vistas con trazo continuo Superior.] | [Derecha] |
 
 ### Evidencias P4
 
 Drawing completo con vistas y cotas.
 
-![P4: Plano completo](S10_P4_PlanoCompleto_Apellido_Nombre.png)
+![P4: Plano completo](S10_P4_PlanoCompleto_Huertas_Nahomy.png)
 
 Comparación del Drawing con el modelo 3D.
 
-![P4: Verificación](S10_P4_Verificacion_Apellido_Nombre.png)
+![P4: Verificación](S10_P4_Verificacion_Huertas_Nahomy.png)
 
 ---
 
@@ -188,19 +187,19 @@ Comparación del Drawing con el modelo 3D.
 
 La diferencia principal entre documentar una pieza en Semana 9 (reconstrucción desde plano) y documentarla en Semana 10 (generación de vistas desde modelo) es:
 
-[Respuesta]
+En Semana 9 se partió de un plano técnico para interpretar las medidas y reconstruir la pieza en 3D y en semana 10 se partió del modelo 3D para generar las vistas técnicas y organizar la información en el Drawing.
 
 Los criterios que utilicé para seleccionar las vistas necesarias fueron:
 
-[Respuesta]
+Seleccioné las vistas que permitían mostrar las diferentes formas, alturas, profundidades y características de la pieza, también tomé en cuenta que cada vista aportara información diferente y que no fuera innecesaria.
 
 Los principios de acotación normalizada que más influyeron en la claridad de mi plano fueron:
 
-[Respuesta]
+Colocar las cotas de manera ordenada, preferiblemente fuera del contorno, evitar repetir dimensiones y ubicar cada medida en la vista donde se pudiera interpretar con mayor facilidad.
 
 Si tuviera que agregar una vista adicional a una de mis piezas, sería:
 
-[Respuesta]
+Agregaría una vista adicional solamente si alguna característica no quedara completamente definida con las vistas actuales. En ese caso, elegiría la vista que permitiera observar con mayor claridad esa parte de la pieza.
 
 ## Checklist
 
