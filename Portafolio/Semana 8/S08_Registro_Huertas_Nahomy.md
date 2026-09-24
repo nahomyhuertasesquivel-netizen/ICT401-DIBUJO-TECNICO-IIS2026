@@ -186,7 +186,7 @@ No fue necesario realizar correcciones, ya que al comparar el modelo con las tre
 
 Modelo terminado completo en orientación pictórica, nombre del diseño y ViewCube visibles.
 
-![P4: Modelo](S08_P4_Modelo_Huertas_Nahomy.png)
+![P4: Modelo](S08_P4_Modelo_Huertas-Nahomy.png)
 
 Montaje con tres pares: vista de referencia de esta guía junto a su correspondiente vista de Fusion. Disponga Right a la izquierda, Front a la derecha y Top debajo de Front.
 
