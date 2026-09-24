@@ -54,11 +54,11 @@ Primero revisé el modelo 3D para identificar sus formas principales y los cambi
 
 Captura de las vistas ortogonales generadas desde el modelo.
 
-![P1: Vistas](S10_P1_Vistas_Huertass_Nahomy.png)
+![P1: Vistas](S10_P1_Vistas_Huertas_Nahomy.png)
 
 Modelo 3D en orientación isométrica con nombre y ViewCube visibles.
 
-![P1: Modelo](S10_P1_Modelo_Huertas_Nahomy.png)
+![P1: Modelo](S10_P1_Modelo_Huertass_Nahomy.png)
 
 ---
 
