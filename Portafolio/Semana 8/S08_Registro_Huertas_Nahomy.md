@@ -186,11 +186,11 @@ No fue necesario realizar correcciones, ya que al comparar el modelo con las tre
 
 Modelo terminado completo en orientación pictórica, nombre del diseño y ViewCube visibles.
 
-![P4: Modelo](S08_P4_Modelo_Apellido_Nombre.png)
+![P4: Modelo](S08_P4_Modelo_Huertas_Nahomy.png)
 
 Montaje con tres pares: vista de referencia de esta guía junto a su correspondiente vista de Fusion. Disponga Right a la izquierda, Front a la derecha y Top debajo de Front.
 
-![P4: Comparacion](S08_P4_Comparacion_Apellido_Nombre.png)
+![P4: Comparacion](S08_P4_Comparacion_Huertas_Nahomy.png)
 
 
 ## P5 — Reto de reconstrucción autónoma
@@ -231,11 +231,11 @@ La estrategia inicial funcionó y no fue necesario realizar modificaciones, ya q
 
 Modelo terminado completo en orientación pictórica, nombre del diseño y ViewCube visibles.
 
-![P5: Modelo](S08_P5_Modelo_Apellido_Nombre.png)
+![P5: Modelo](S08_P5_Modelo_Huertas_Nahomy.png)
 
 Montaje con tres pares: vista de referencia de esta guía junto a su correspondiente vista de Fusion. Disponga Right a la izquierda, Front a la derecha y Top debajo de Front.
 
-![P5: Comparacion](S08_P5_Comparacion_Apellido_Nombre.png)
+![P5: Comparacion](S08_P5_Comparacion_Huertas_Nahomy.png)
 
 ## Reflexión final
 
