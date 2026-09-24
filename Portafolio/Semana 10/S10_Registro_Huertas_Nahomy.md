@@ -2,10 +2,10 @@
 
 21 al 26 de septiembre de 2026.
 
-- Estudiante: [Respuesta]
-- Grupo: [Respuesta]
-- Carpeta o proyecto de Fusion Cloud con acceso docente: [Respuesta]
-- Modelos utilizados: `ICT401_S09_P1_Apellido_Nombre`, `ICT401_S09_P2_Apellido_Nombre`, `ICT401_S09_P3_Apellido_Nombre` u otros equivalentes.
+- Estudiante: Nahomy Marcela Huertas Esquivel
+- Grupo: 60
+- Carpeta o proyecto de Fusion Cloud con acceso docente: Nahomy Huertas
+- Modelos utilizados: `ICT401_S10_P1_Apellido_Nombre`, `ICT401_S09_P2_Apellido_Nombre`, `ICT401_S09_P3_Apellido_Nombre` u otros equivalentes.
 
 ## Instrucciones
 
@@ -21,34 +21,34 @@ X = ancho, Y = profundidad, Z = altura. Trabaje en milímetros. Cuando compare v
 
 ### P1.1 · Modelo utilizado
 
-- Nombre del diseño en Fusion: [Respuesta]
-- Pieza de referencia (semana de origen): [Respuesta]
+- Nombre del diseño en Fusion: ICT401_S10_P1_Huertas_Nahomy
+- Pieza de referencia (semana de origen): Semana 9
 
 ### P1.2 · Características principales del modelo
 
 | Característica | Descripción | Vista(s) que la comunican |
 |---|---|---|
-| 1 | [Respuesta] | [Respuesta] |
-| 2 | [Respuesta] | [Respuesta] |
-| 3 | [Respuesta] | [Respuesta] |
-| 4 | [Respuesta] | [Respuesta] |
+| 1 | Base rectangular alargada | Frontal, Superior y Derecha |
+| 2 | Bloque elevado en uno de los extremos | Frontal, Superior y Derecha |
+| 3 | Cambio de altura entre la base y el bloque | Frontal y Derecha |
+| 4 | Superficie horizontal de menor altura después del bloque | Frontal, Superior y Derecha |
 
 ### P1.3 · Vistas seleccionadas y justificación
 
 | Vista | ¿Es necesaria? | ¿Por qué? | ¿Qué información aporta? |
 |---|---|---|---|
-| Front | [Respuesta] | [Respuesta] | [Respuesta] |
-| Top | [Respuesta] | [Respuesta] | [Respuesta] |
-| Right | [Respuesta] | [Respuesta] | [Respuesta] |
+| Front | si | Permite observar claramente el cambio de altura de la pieza | Muestra el perfil, la altura de la base y la altura del bloque |
+| Top | si | Permite observar la forma general y la distribución de las diferentes zonas | Muestra el largo, el ancho y la posición del bloque elevado |
+| Right | si | Permite comprobar las alturas y la profundidad de la pieza | Muestra el cambio de altura y la profundidad |
 | Otra: [nombre] | [Respuesta] | [Respuesta] | [Respuesta] |
 
 ### P1.4 · ¿Algual vista resultó redundante? ¿Cuál y por qué?
 
-[Respuesta]
+No eliminé ninguna de las tres vistas principales porque cada una permite observar una parte diferente de la geometría. La Frontal permite identificar principalmente los cambios de altura, la Superior permite observar la forma y distribución de la pieza, y la Derecha ayuda a comprobar la profundidad y las alturas.
 
 ### P1.5 · Método utilizado para generar las vistas en Fusion
 
-[Respuesta]
+Primero revisé el modelo 3D para identificar sus formas principales y los cambios de altura. Después utilicé el entorno Drawing de Fusion para generar la vista Frontal como vista base y proyectar las vistas Superior y Derecha. Finalmente comprobé que las tres vistas correspondieran con la geometría del modelo.
 
 ### Evidencias P1
 
@@ -66,26 +66,26 @@ Modelo 3D en orientación isométrica con nombre y ViewCube visibles.
 
 ### P2.1 · Configuración del Drawing
 
-- Formato seleccionado: [Respuesta]
-- Orientación: [Respuesta]
-- Escala: [Respuesta]
-- Justificación de cada elección: [Respuesta]
+- Formato seleccionado: A3
+- Orientación: Horizontal
+- Escala: 2:1
+- Justificación de cada elección: Seleccioné el formato A3 porque permite colocar las vistas principales de la pieza y mantener una buena distribución, con una orientación horizontal facilitando organizar las vistas Frontal, Superior y Derecha en escala que sea más visible la figura y sus dimensiones.
 
 ### P2.2 · Disposición de vistas
 
 | Vista | Posición en el Drawing | Distancia a la vista adyacente | ¿Alineada correctamente? |
 |---|---|---|---|
-| Front (base) | [Respuesta] | [Respuesta] | [Respuesta] |
-| Top | [Respuesta] | [Respuesta] | [Respuesta] |
-| Right | [Respuesta] | [Respuesta] | [Respuesta] |
+| Front (base) | Inferior izquierda | N/A (vista base) | Sí |
+| Top | Superior (sobre Frontal) | ~30 mm | Sí |
+| Right | Derecha (de Frontal) | ~30 mm | Sí |
 
 ### P2.3 · ¿Qué problemas de alineación o disposición detectó? ¿Cómo los resolvió?
 
-[Respuesta]
+No detecté problemas importantes de alineación. las vistas quedaron separadas y organizadas de manera que se puede relacionar la información entre ellas y también se dejó suficiente espacio para colocar las cotas sin que se mezclaran con las vistas.
 
 ### P2.4 · ¿La escala permite legibilidad de todas las vistas? Justifique.
 
-[Respuesta]
+Sí, la escala 2:1 permite visualizar las tres vistas con claridad y leer las dimensiones sin dificultad. Además, el tamaño de las vistas permite identificar correctamente la forma de la pieza y sus características principales.
 
 ### Evidencias P2
 
