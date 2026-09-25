@@ -103,7 +103,7 @@ Finalmente utilizaría la Estrategia A, porque permite construir primero la form
 
 Captura del historial/timeline y del modelo obtenido con la estrategia seleccionada.
 
-![P2: Estrategia seleccionada](S09_P2_Estrategia_Apellido_Nombre.png)
+![P2: Estrategia seleccionada](S09_P2_Estrategia_Huertas_Nahomy.png)
 
 ---
 
@@ -161,15 +161,15 @@ Es un bloque prismático rectangular de 80 × 50 × 30 mm, con un resalte poster
 
 Modelo final en orientación pictórica, con nombre y ViewCube visibles.
 
-![P3: Modelo final](S09_P3_Modelo_Apellido_Nombre.png)
+![P3: Modelo final](S09_P3_Modelo_Huertas_Nahomy.png)
 
 Montaje de Front, Top y Right del modelo para compararlos con el plano.
 
-![P3: Vistas](S09_P3_Vistas_Apellido_Nombre.png)
+![P3: Vistas](S09_P3_Vistas_Huertas_Nahomy.png)
 
 Captura de una comprobación dimensional con `Inspect > Measure`.
 
-![P3: Medicion](S09_P3_Medicion_Apellido_Nombre.png)
+![P3: Medicion](S09_P3_Medicion_Huertas_Nahomy.png)
 
 ---
 
