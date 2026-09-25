@@ -2,6 +2,7 @@
 
 **Organizador de escritorio para libros y cuadernos**
 
+
 | FECHA | ACTIVIDAD | RESPONSABLE |
 |---|---|---|
 | 21/09/2026 | Realicé una lluvia de ideas sobre posibles objetos para el proyecto y realicé una evaluación para ver cuál sería más factible, dando comoresultado un organizador de escritorio de libros y cuadernos, dirigido a estudiantes y personas que quisieran mantener el orden en su espacio de trabajo y la creación de sus croquis. | Nahomy Huertas |
