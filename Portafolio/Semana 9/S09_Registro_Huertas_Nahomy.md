@@ -138,24 +138,24 @@ Es un bloque prismático rectangular de 80 × 50 × 30 mm, con un resalte poster
 |---|---|---|---|
 | Front | Sí | Se comprobó el ancho total de 80 mm, el resalte de 45 mm y las líneas correspondientes a los cortes pasantes | Ninguna, las dimensiones principales coincidieron con el plano. |
 | Top | Sí | Se verificó el contorno de 80 × 50 mm, el resalte, la perforación 12 mm en 22,35 y la ranura de 12 × 16 mm. | Se ajustó la posición de la ranura para que coincidiera con X=60–72 y Y=8–24. |
-| Right | Sí | [Respuesta] | [Respuesta] |
+| Right | Sí | Profundidad total de 50, altura máxima de 30 y proyección de las líneas discontinuas pasantes | Ninguna, se verificó que la profundidad del resalte (30 mm) en Y coincide con la vista lateral |
 
 ### P3.5 · Verificación dimensional
 
 | Dimensión crítica | Valor del plano | Valor medido en Fusion | Elemento medido | ¿Coincide? |
 |---|---|---|---|---|
-| 1 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 2 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 3 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 4 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
+| 1 | 80mm | 80mm | Longitud total en el eje X | Sí |
+| 2 | 50mm | 50mm | Profundidad total en el eje Y | Sí |
+| 3 | 12mm | 12mm | Diámetro de la perforación cilíndrica | Sí |
+| 4 | 12 x 16mm | 12x 16mm | Dimensiones de la ranura rectangular pasante | Sí |
 
 ### P3.6 · ¿Qué cambió entre su estrategia inicial y el modelo final?
 
-[Respuesta]
+Al principio había pensado realizar los cortes por separado, pero durante el modelado decidí combinar el orificio y la ranura en un mismo boceto. De esta manera pude realizar los cortes de forma más sencilla y mantener el modelo más organizado.
 
 ### P3.7 · Si tuviera que cambiar una dimensión principal, ¿qué Sketch, dimensión u operación editaría?
 
-[Respuesta]
+Modificaría el Sketch 1, principalmente la cota relacionada con las dimensiones generales de la pieza. Al cambiarla desde el boceto inicial, las operaciones posteriores se ajustarían siguiendo la relación entre las características del modelo.
 
 ### Evidencias P3
 
@@ -177,19 +177,19 @@ Captura de una comprobación dimensional con `Inspect > Measure`.
 
 La diferencia principal entre reconstruir una pieza en Semana 8 y reconstruirla desde un plano en Semana 9 es:
 
-[Respuesta]
+En Semana 8 se trabajaba más en entender las vistas y cómo se relacionaban entre sí. En Semana 9 tuve que interpretar el plano, sacar las medidas y pensar primero cómo iba a construir la pieza en Fusion.
 
 Antes de abrir Fusion, la información mínima que debo extraer de un plano es:
 
-[Respuesta]
+Las medidas generales de la pieza, las características que tiene, la posición de cada elemento y qué vista me ayuda a identificar cada una de sus medidas.
 
 Una estrategia de modelado es mejor que otra cuando:
 
-[Respuesta]
+Permite hacer la pieza de una forma más ordenada, fácil de entender y de modificar si después necesito cambiar alguna medida.
 
 La comprobación final más importante para asegurar que el modelo corresponde al plano es:
 
-[Respuesta]
+Comparar las vistas frontal, superior y derecha con las del plano y revisar las medidas principales para comprobar que coincidan.
 
 ## Checklist
 
