@@ -5,8 +5,8 @@
 - Estudiante: Nahomy Marcela Huertas Esquivel
 - Grupo: 60
 - Carpeta o proyecto de Fusion Cloud con acceso docente: Nahomy Huertas
-- Drawing o modelo de referencia de Semana 10: ICT401_
-- Modelo utilizado: [Nombre del diseño]
+- Drawing o modelo de referencia de Semana 10: ICT401_S10_P4_Huertas_Nahomy
+- Modelo utilizado: P4
 
 ## Instrucciones
 
@@ -39,39 +39,39 @@ Trabaje sobre un modelo o plano desarrollado en Semana 10. Use milímetros, orie
 ### P1.1 · Modelo utilizado
 
 - Nombre del diseño en Fusion: [Respuesta]
-- Pieza de referencia y semana de origen: [Respuesta]
+- Pieza de referencia y semana de origen: Pieza trabajada previamente en semana 9, utilizada como base para continuar el plano técnico de Semana 11.
 - Características interiores observadas: [Respuesta]
 
 ### P1.2 · Análisis de vistas
 
 | Característica | Vista donde aparece | ¿Se comunica claramente? | Problema detectado |
 |---|---|---|---|
-| 1 | [Respuesta] | [Respuesta] | [Respuesta] |
-| 2 | [Respuesta] | [Respuesta] | [Respuesta] |
-| 3 | [Respuesta] | [Respuesta] | [Respuesta] |
-| 4 | [Respuesta] | [Respuesta] | [Respuesta] |
+| Perforación cilíndrica | Vista superior | Sí | En otras vistas se representa principalmente mediante líneas ocultas. |
+| Profundidad de la perforación | Vista frontal | No en su totalidad | Las líneas ocultas dificultan visualizar directamente su profundidad. |
+| Cambio de nivel | Vista frontal | Sí | Se observa claramente el cambio de nivel de la pieza. |
+| Cavidad rectangular interior | Vista superior/frontal | No en su totalidad | 	Parte de la geometría interior queda representada mediante líneas ocultas. |
 
 ### P1.3 · Comparación de alternativas
 
 | Alternativa | Ventaja | Limitación |
 |---|---|---|
-| Vista ordinaria | [Respuesta] | [Respuesta] |
-| Vista con líneas ocultas | [Respuesta] | [Respuesta] |
-| Vista seccionada | [Respuesta] | [Respuesta] |
+| Vista ordinaria | Permite conservar la forma exterior de la pieza de manera sencilla. | Las características interiores no se observan directamente. |
+| Vista con líneas ocultas | Permite representar agujeros y elementos internos sin modificar la vista. | Puede generar varias líneas discontinuas y dificultar la interpretación. |
+| Vista seccionada | Muestra directamente las características interiores y las superficies atravesadas. | Requiere definir correctamente el plano y la dirección de observación. |
 
 ### P1.4 · Decisión de representación
 
-- Tipo de representación elegido: [Respuesta]
-- Vista desde la que se realizará: [Respuesta]
-- Posición aproximada del plano de corte: [Respuesta]
-- Justificación técnica: [Respuesta]
+- Tipo de representación elegido: Vista seccionada mediante un corte completo.
+- Vista desde la que se realizará: Vista frontal.
+- Posición aproximada del plano de corte: Plano vertical ubicado de manera que atraviese la zona central de la perforación cilíndrica y la cavidad interior.
+- Justificación técnica: Elegí una vista seccionada porque permite mostrar directamente las características interiores de la pieza, especialmente la perforación y la cavidad rectangular de esta manera se reduce la cantidad de líneas ocultas y se facilita la interpretación de la geometría interior y el corte permite además identificar mediante rayado las superficies que son atravesadas por el plano de corte.
 
 ### Evidencias P1
 
 **Qué debe contener cada imagen:**
 
-- `S11_P1_Modelo_Apellido_Nombre.png`: captura de Fusion en el espacio `Design`, con el modelo 3D utilizado, nombre del diseño, ViewCube y característica interior que se analizará.
-- `S11_P1_Comparacion_Apellido_Nombre.png`: comparación entre una vista ordinaria, la alternativa con líneas ocultas y la propuesta de sección. Debe mostrar qué información queda oculta y por qué la sección sería más clara.
+- `S11_P1_Modelo_Huertas_Nahomy.png`: captura de Fusion en el espacio `Design`, con el modelo 3D utilizado, nombre del diseño, ViewCube y característica interior que se analizará.
+- `S11_P1_Comparacion_Huertas_Nahomy.png`: comparación entre una vista ordinaria, la alternativa con líneas ocultas y la propuesta de sección. Debe mostrar qué información queda oculta y por qué la sección sería más clara.
 
 Una captura aislada del modelo no demuestra la comparación solicitada.
 
@@ -101,19 +101,21 @@ P1 no requiere crear un `Drawing`; la decisión se registra antes de pasar a la 
 
 | Elemento | Decisión aplicada |
 |---|---|
-| Vista donde se indica el corte | [Respuesta] |
-| Posición del plano de corte | [Respuesta] |
-| Dirección de observación | [Respuesta] |
-| Identificación | [Respuesta] |
-| Tipo de corte o sección | [Respuesta] |
+| Vista donde se indica el corte | Vista de Superior o Vista Frontal |
+| Posición del plano de corte | Longitud a lo largo del eje central de la pieza, atravesando el centro del agujero cilíndrico y la cavidad interior |
+| Dirección de observación | Perpendicular al plano de corte, apuntando hacia la mitad posterior/interior que contiene las características a exponer  |
+| Identificación | [A–A, con letras mayúsculas en los extremos del plano |
+| Tipo de corte o sección | Corte total |
+
+
 
 ### P2.2 · Rayado
 
-- ¿Qué superficies quedan cortadas?: [Respuesta]
-- ¿Qué superficies no deben rayarse?: [Respuesta]
-- ¿Cómo diferenció zonas o componentes adyacentes?: [Respuesta]
-- ¿Qué separación utilizó entre las líneas de rayado?: [Respuesta]
-- ¿Cómo evitó que el rayado invadiera textos o cotas?: [Respuesta]
+- ¿Qué superficies quedan cortadas?: Las paredes sólidas de material que atraviesa directamente el plano de corte
+- ¿Qué superficies no deben rayarse?: Las cavidades, agujeros, muescas vacías y espacios de aire interiores que no contienen material sólido.
+- ¿Cómo diferenció zonas o componentes adyacentes?: Cambiando la inclinación de las líneas de rayado o modificando el espaciado entre ellas para cada zona/pieza distinta
+- ¿Qué separación utilizó entre las líneas de rayado?: Un espaciado uniforme y equidistante (aproximadamente entre 1.5 mm y 3 mm), proporcional al tamaño de la superficie cortada
+- ¿Cómo evitó que el rayado invadiera textos o cotas?: Interrumpiendo el rayado alrededor del texto o cifra de cota, dejando una ventana en blanco despejada para mantener la legibilidad
 
 ### P2.3 · Diferencia conceptual
 
