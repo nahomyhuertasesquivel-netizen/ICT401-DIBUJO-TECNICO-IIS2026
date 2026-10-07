@@ -172,12 +172,12 @@ La tabla siguiente registra la evaluacion aplicada exclusivamente a esta ficha y
 
 | Criterio oficial | Valor maximo | Puntaje obtenido | Observaciones de evaluacion |
 |---|---:|---:|---|
-| Interpretacion correcta del plano o conjunto de vistas | 2.00 | 2.00 | Cumple bien los elementos aplicables y verificables. |
-| Reconstruccion tridimensional coherente | 2.50 | 1.88 | Cumple mayoritariamente; quedan faltantes o verificaciones menores. |
-| Aplicacion de restricciones y dimensiones | 1.50 | 1.13 | Cumple mayoritariamente; quedan faltantes o verificaciones menores. |
-| Precision geometrica y correspondencia con el plano | 2.00 | 1.50 | Cumple mayoritariamente; quedan faltantes o verificaciones menores. |
-| Organizacion, nomenclatura y archivo editable | 1.00 | 0.00 | Sin evidencia verificable para este criterio. |
-| Presentacion y cumplimiento del enunciado | 1.00 | 0.25 | Presenta algunas evidencias verificables, pero cumple menos de la mitad. |
+| Interpretacion correcta del plano o conjunto de vistas | 2.00 | 2.00 | Puntaje completo: no se identificaron faltantes para este criterio. |
+| Reconstruccion tridimensional coherente | 2.50 | 1.88 | Puntaje parcial: Las doce casillas del checklist permanecen sin marcar y la ruta/nomenclatura no son oficiales. |
+| Aplicacion de restricciones y dimensiones | 1.50 | 1.13 | Puntaje parcial: Las doce casillas del checklist permanecen sin marcar y la ruta/nomenclatura no son oficiales. |
+| Precision geometrica y correspondencia con el plano | 2.00 | 1.50 | Puntaje parcial: Las doce casillas del checklist permanecen sin marcar y la ruta/nomenclatura no son oficiales. |
+| Organizacion, nomenclatura y archivo editable | 1.00 | 0.00 | Puntaje 0,00: Las doce casillas del checklist permanecen sin marcar y la ruta/nomenclatura no son oficiales. |
+| Presentacion y cumplimiento del enunciado | 1.00 | 0.25 | Puntaje parcial: Las doce casillas del checklist permanecen sin marcar y la ruta/nomenclatura no son oficiales. |
 
 **Total obtenido: 6.76 / 10,00 %**
 
