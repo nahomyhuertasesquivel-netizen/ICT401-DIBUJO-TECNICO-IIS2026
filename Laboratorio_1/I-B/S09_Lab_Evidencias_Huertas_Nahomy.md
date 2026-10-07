@@ -215,34 +215,8 @@ Marcar correctamente checklist y usar ruta/nomenclatura oficial.
 | R5 - Organizacion, nomenclatura y archivo editable | 0.00 |
 | R6 - Presentacion y cumplimiento del enunciado | 0.25 |
 
-R5 se califica con 0,00 porque la ficha no respeta la nomenclatura y la carpeta oficial `Portafolio/semana09`. La revision se baso exclusivamente en esta ficha y sus evidencias enlazadas o insertadas; no se inspeccionaron archivos de Fusion.
-
-### Calificacion final
-
-**6.76 / 10,0 %**
-
-## H. Retroalimentacion del evaluador
-
-### Fortalezas
-
-Ficha y evidencias completas en contenido.
-
-### Aspectos por corregir
-
-Marcar correctamente checklist y usar ruta/nomenclatura oficial.
-
-### Desglose del puntaje
-
-| Criterio | Puntaje obtenido |
-|---|---:|
-| R1 - Interpretacion correcta del plano o conjunto de vistas | 2.00 |
-| R2 - Reconstruccion tridimensional coherente | 1.88 |
-| R3 - Aplicacion de restricciones y dimensiones | 1.13 |
-| R4 - Precision geometrica y correspondencia con el plano | 1.50 |
-| R5 - Organizacion, nomenclatura y archivo editable | 0.00 |
-| R6 - Presentacion y cumplimiento del enunciado | 0.25 |
-
-R5 se califica con 0,00 porque la ficha no respeta la nomenclatura y la carpeta oficial `Portafolio/semana09`. La revision se baso exclusivamente en esta ficha y sus evidencias enlazadas o insertadas; no se inspeccionaron archivos de Fusion.
+R5 se califica con 0,00 porque la ficha no respeta una ruta y nomenclatura oficial, o no presenta evidencia verificable. La revisiÃ³n se basÃ³ exclusivamente en esta ficha y sus evidencias enlazadas o insertadas.
+ No se inspeccionaron archivos de Fusion.
 
 ### Calificacion final
 
