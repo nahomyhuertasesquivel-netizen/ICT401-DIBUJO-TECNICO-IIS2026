@@ -212,10 +212,10 @@ Marcar correctamente checklist y usar ruta/nomenclatura oficial.
 | Criterio | Puntaje obtenido |
 |---|---:|
 | R1 - Interpretacion correcta del plano o conjunto de vistas | 2.00 |
-| R2 - Reconstruccion tridimensional coherente | 1.88 |
-| R3 - Aplicacion de restricciones y dimensiones | 1.13 |
-| R4 - Precision geometrica y correspondencia con el plano | 1.50 |
-| R5 - Organizacion, nomenclatura y archivo editable | 0.00 |
+| R2 - Reconstruccion tridimensional coherente | 2.50 |
+| R3 - Aplicacion de restricciones y dimensiones | 1.50 |
+| R4 - Precision geometrica y correspondencia con el plano | 2.00 |
+| R5 - Organizacion, nomenclatura y archivo editable | 0 |
 | R6 - Presentacion y cumplimiento del enunciado | 0.25 |
 
 La ficha esta en Laboratorio_1/I-B/, fuera de las rutas oficiales, y la nomenclatura no esta normalizada.
@@ -223,4 +223,4 @@ La ficha esta en Laboratorio_1/I-B/, fuera de las rutas oficiales, y la nomencla
 
 ### Calificacion final
 
-**6.76 / 10,0 %**
+**8.25 / 10,0 %**
