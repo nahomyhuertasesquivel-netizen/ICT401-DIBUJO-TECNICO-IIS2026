@@ -2,10 +2,10 @@
 
 5 al 10 de octubre de 2026.
 
-- Estudiante: [Respuesta]
-- Grupo: [Respuesta]
-- Proyecto de Fusion Cloud con acceso docente: [Respuesta]
-- Drawing de referencia de Semana 11: [Respuesta]
+- Estudiante: Nahomy Huertas Esquivel
+- Grupo: 60
+- Proyecto de Fusion Cloud con acceso docente: Nahomy Huertas
+- Drawing de referencia de Semana 11: S09_P3_Modelo_Huertas_Nahomy
 - Modelo utilizado: [Nombre del diseño]
 - Laboratorio integrador II-A: [Respuesta]
 - Fase 2 del Proyecto: [Respuesta]
