@@ -176,10 +176,10 @@ La tabla siguiente registra la evaluacion aplicada exclusivamente a esta ficha y
 | Reconstruccion tridimensional coherente | 2.50 | 2.50 | Puntaje completo: no se identificaron faltantes para este criterio. |
 | Aplicacion de restricciones y dimensiones | 1.50 | 1.50 | Puntaje completo: no se identificaron faltantes para este criterio. |
 | Precision geometrica y correspondencia con el plano | 2.00 | 2.00 | Puntaje completo: no se identificaron faltantes para este criterio. |
-| Organizacion, nomenclatura y archivo editable | 1.00 | 0.00 | Puntaje 0,00: La ficha esta en `Laboratorio_1/I-B/`, fuera de las rutas oficiales, y la nomenclatura no esta normalizada. |
+| Organizacion, nomenclatura y archivo editable | 1.00 | 0.75 | Puntaje parcial: La ruta Laboratorio_1/I-B/ se acepta como variante equivalente; queda pendiente normalizar la nomenclatura. |
 | Presentacion y cumplimiento del enunciado | 1.00 | 0.25 | Puntaje parcial: Las doce casillas del checklist estan sin marcar. |
 
-**Total obtenido: 8.25 / 10,00 %**
+**Total obtenido: 9.00 / 10,00 %**
 
 La ruta `Laboratorio_I/I-B/` se acepta como ruta oficial alternativa junto con `Portafolio/semana09/`. No se inspeccionaron archivos de Fusion.
 
