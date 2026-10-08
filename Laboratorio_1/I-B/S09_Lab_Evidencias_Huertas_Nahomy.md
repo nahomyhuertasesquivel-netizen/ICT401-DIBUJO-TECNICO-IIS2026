@@ -177,7 +177,7 @@ La tabla siguiente registra la evaluacion aplicada exclusivamente a esta ficha y
 | Aplicacion de restricciones y dimensiones | 1.50 | 1.13 | Puntaje parcial: En B1, D3 y C2, revisar restricciones, cotas y las cinco verificaciones dimensionales. Observacion especifica: Las doce casillas del checklist permanecen sin marcar y la ruta/nomenclatura no son oficiales. |
 | Precision geometrica y correspondencia con el plano | 2.00 | 1.50 | Puntaje parcial: En C1, C2, D2 y D5, revisar la correspondencia geometrica y las mediciones documentadas. Observacion especifica: Las doce casillas del checklist permanecen sin marcar y la ruta/nomenclatura no son oficiales. |
 | Organizacion, nomenclatura y archivo editable | 1.00 | 0.00 | Puntaje 0,00: La ficha esta en `Laboratorio_1/I-B/`, fuera de las rutas oficiales, y la nomenclatura no esta normalizada. |
-| Presentacion y cumplimiento del enunciado | 1.00 | 0.25 | Puntaje parcial: En D1-D5 y el checklist, revisar la integridad de las evidencias y el cumplimiento formal del enunciado. Observacion especifica: Las doce casillas del checklist permanecen sin marcar y la ruta/nomenclatura no son oficiales. |
+| Presentacion y cumplimiento del enunciado | 1.00 | 0.25 | Puntaje parcial: Las doce casillas del checklist estan sin marcar. |
 
 **Total obtenido: 6.76 / 10,00 %**
 
