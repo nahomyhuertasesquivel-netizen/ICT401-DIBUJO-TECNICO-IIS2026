@@ -218,7 +218,7 @@ Marcar correctamente checklist y usar ruta/nomenclatura oficial.
 | R5 - Organizacion, nomenclatura y archivo editable | 0 |
 | R6 - Presentacion y cumplimiento del enunciado | 0.25 |
 
-La ficha esta en Laboratorio_1/I-B/, fuera de las rutas oficiales, y la nomenclatura no esta normalizada.
+La ruta Laboratorio_1/I-B/ se acepta como variante equivalente; queda pendiente normalizar la nomenclatura.
  No se inspeccionaron archivos de Fusion.
 
 ### Calificacion final
