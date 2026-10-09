@@ -6,7 +6,7 @@
 
 | Campo | Información |
 |---|---|
-| Proyecto | Organizador de Libros escritorio |
+| Proyecto | Organizador de escritorio para libros y cuadernos |
 | Fase | 2 |
 | Software | Autodesk Fusion |
 | Estudiante | Nahomy Marcela Huertas Esquivel |
