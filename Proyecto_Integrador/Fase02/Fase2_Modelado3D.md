@@ -6,7 +6,7 @@
 
 | Campo | Información |
 |---|---|
-| Proyecto | Modelado 3D |
+| Proyecto | Organizador de Libros escritorio |
 | Fase | 2 |
 | Software | Autodesk Fusion |
 | Estudiante | Nahomy Marcela Huertas Esquivel |
