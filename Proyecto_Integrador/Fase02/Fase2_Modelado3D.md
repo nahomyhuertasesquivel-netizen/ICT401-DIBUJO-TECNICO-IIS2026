@@ -73,6 +73,8 @@ Se ajustan las cotas del modelo y se establece la medida de 80 mm para la dimens
 
 ![Cotas del modelo](evidencias03-cotas.png)
 
+![Cotas del modelo](evidencias03.2-cotas.png)
+
 ### 6.4. Cortes diagonales
 
 Se definen los perfiles necesarios para realizar los cortes diagonales en las paredes, de acuerdo con el croquis de referencia.
