@@ -105,6 +105,7 @@ Durante el proceso surgieron dudas sobre la definición de las cotas y la realiz
 | Cortes diagonales | Crear los perfiles de corte uno por uno y aplicar la operación correspondiente. |
 | Documentación | Registrar cada etapa mediante capturas de pantalla. |
 
+link del modelo 3D:https://a360.co/4ydf4xe
 
 └── archivos/
     └── modelo-fase-2.f3d
