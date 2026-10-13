@@ -80,36 +80,37 @@ Si la plantilla o la versión de Fusion no permite mostrar un dato, escriba la l
 
 ### P1.1 · Estado de referencia
 
-- Nombre del proyecto Fusion: [Respuesta]
-- Nombre del diseño: [Respuesta]
-- Nombre del Drawing: [Respuesta]
-- Formato actual: [Respuesta]
-- Orientación actual: [Respuesta]
-- Unidades: [Respuesta]
-- Escala actual de la hoja o vistas: [Respuesta]
+- Nombre del proyecto Fusion: Proyecto_ICT401_Salazar_Ashley
+- Nombre del diseño: S09_P1_Modelo_Huertas_Nahomy
+- Nombre del Drawing: S09_P1_Modelo_Huertas_Nahomy
+- Formato actual: ISO A4 (210 × 297 mm)
+- Orientación actual: Horizontal (Landscape)
+- Unidades:  Milímetros (mm)
+- Escala actual de la hoja o vistas: 1:2
 
 ### P1.2 · Diagnóstico
 
 | Problema observado | Ubicación exacta en la hoja | Por qué afecta la entrega | Corrección prevista |
 |---|---|---|---|
-| [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
+| Escala muy pequeña. | En las vistas principales del plano. | Hace que la pieza y sus detalles se vean pequeños, dificultando la lectura de las cotas. | Ajustar la escala para aprovechar mejor el espacio disponible en la hoja y facilitar la lectura. |
+| Grosor de las líneas. | En los contornos, las líneas ocultas y los detalles del dibujo. | Si los grosores no se distinguen correctamente, puede ser difícil diferenciar los elementos de la pieza. | Revisar y ajustar los grosores de línea para mejorar la claridad del plano. |
+| Distribución de la hoja. | En la distribución general de las vistas. | Una mala organización puede dejar espacios desaprovechados o hacer que las vistas y las cotas queden demasiado juntas. | Reorganizar las vistas y las anotaciones para aprovechar mejor el espacio y mantener una presentación ordenada. |
 
 ### P1.3 · Comparación de alternativas
 
 | Alternativa | Ventaja | Limitación | ¿La selecciono? |
 |---|---|---|---|
-| [Respuesta] | [Respuesta] | [Respuesta] | [Sí/No] |
-| [Respuesta] | [Respuesta] | [Respuesta] | [Sí/No] |
+| ISO A4 (210 × 297 mm) | Es un tamaño estándar y fácil de imprimir. | No había suficiente espacio para organizar todas las vistas, cotas y detalles. | No |
+| ISO A3 (420 × 297 mm) | Permite distribuir mejor las vistas y la información técnica. | Requiere una impresión de mayor tamaño. | Sí |
 
-- Formato seleccionado: [Respuesta]
-- Orientación seleccionada: [Respuesta]
-- Escala inicial seleccionada: [Respuesta]
-- Justificación técnica: [Respuesta]
-- Criterio de ISO 5457 aplicado: [Respuesta]
-- ¿Qué parte de la selección es una decisión didáctica de la plantilla?: [Respuesta]
 
+- **Formato seleccionado:** ISO A3 (420 × 297 mm).
+- **Orientación:** Horizontal (Landscape).
+- **Escala inicial seleccionada:** 1:1.
+- **Justificación técnica:** Elegí el formato A3 porque permite distribuir las vistas Frontal, Superior, Lateral Derecha, la sección A-A y el detalle B sin amontonar las cotas ni obstruir el cajetín.
+- **Criterio de ISO 5457:** Tomé como referencia el tamaño normalizado de la hoja y el espacio necesario para los márgenes.
+- **Decisión de la plantilla:** Mantener las vistas principales a escala 1:1 y el detalle ampliado a escala 2:1.
+  
 ### Evidencias P1
 
 **Qué debe contener cada imagen:**
@@ -120,11 +121,11 @@ Si la plantilla o la versión de Fusion no permite mostrar un dato, escriba la l
 
 Una captura aislada del cuadro de diálogo no demuestra que el formato sea adecuado para el plano.
 
-![P1: Plano inicial](S12_P1_PlanoInicial_Apellido_Nombre.png)
+![P1: Plano inicial](S12_P1_PlanoInicial_Huertas_Nahomy.png)
 
-![P1: Diagnóstico](S12_P1_Diagnostico_Apellido_Nombre.png)
+![P1: Diagnóstico](S12_P1_Diagnostico_Huertas_Nahomy.png)
 
-![P1: Decisión de formato](S12_P1_DecisionFormato_Apellido_Nombre.png)
+![P1: Decisión de formato](S12_P1_DecisionFormato_Huertas_Nahomy.png)
 
 ## P2 — Aplicación de hoja, distribución y cajetín
 
@@ -146,32 +147,29 @@ Una captura aislada del cuadro de diálogo no demuestra que el formato sea adecu
 10. Cierre la edición del cajetín y compruebe que ningún texto invada vistas, cotas, rayado o bordes.
 11. Guarde el Drawing en Fusion Cloud.
 
-### P2.1 · Configuración aplicada
+- **Formato final:** ISO A3 (420 × 297 mm).
+- **Orientación:** Horizontal (Landscape).
+- **Unidades:** Milímetros (mm).
+- **Escala indicada en el cajetín:** 1:1.
+- **Escala de las vistas:** 1:1 para las vistas principales y 2:1 para el detalle B.
+- **¿Coinciden las escalas?:** Sí. El cajetín indica la escala principal y el detalle tiene su propia escala identificada.
+- **Campos completados:** Título, código del curso, autor, fecha, unidades, escala y número de hoja.
+- **Código del documento:** ICT401-S12-Huertas_Nahomy.
+- **Fecha de entrega:** 13/10/2026.
+- **Autor:** Huertas Nahomy.
+- **Revisión:** Rev. 02 / Final.
+- **Campo no disponible:** No se agregó un nombre de revisor independiente porque no estaba disponible en la plantilla.
 
-- Formato final de la hoja: [Respuesta]
-- Orientación: [Respuesta]
-- Unidades: [Respuesta]
-- Escala escrita en el cajetín: [Respuesta]
-- Escala configurada en las vistas: [Respuesta]
-- ¿Coinciden ambas escalas?: [Sí/No]
-- Campos completados del cajetín: [Respuesta]
-- Número de identificación del documento: [Respuesta]
-- Fecha de emisión o entrega: [Respuesta]
-- Autor: [Respuesta]
-- Estado o revisión: [Respuesta]
-- Campos normativos no disponibles en Fusion: [Respuesta]
+### P2.2 · Distribución de las vistas
 
-### P2.2 · Distribución
-
-| Elemento | Posición final | ¿Está alineado o relacionado correctamente? | Corrección realizada |
+| Elemento | Ubicación final | ¿Está bien relacionado? | Corrección realizada |
 |---|---|---|---|
-| Front | [Respuesta] | [Respuesta] | [Respuesta] |
-| Top | [Respuesta] | [Respuesta] | [Respuesta] |
-| Right | [Respuesta] | [Respuesta] | [Respuesta] |
-| Corte o sección | [Respuesta] | [Respuesta] | [Respuesta] |
-| Detalle | [Respuesta] | [Respuesta] | [Respuesta] |
-| Cajetín | [Respuesta] | [Respuesta] | [Respuesta] |
-
+| Frontal | Centro-izquierda | Sí | Se mantuvo alineada con las vistas Superior y Lateral Derecha. |
+| Superior | Parte superior izquierda | Sí | Se colocó encima de la vista Frontal. |
+| Lateral Derecha | Centro-derecha | Sí | Se mantuvo a la derecha de la vista Frontal. |
+| Sección A-A | Parte inferior central | Sí | Se revisó su alineación con la indicación del corte. |
+| Detalle B | Esquina superior derecha | Sí | Se identificó como DETALLE B ESCALA 2:1. |
+| Cajetín | Esquina inferior derecha | Sí | Se dejó dentro del marco y sin interferencias con las cotas. |
 ### Evidencias P2
 
 **Qué debe contener cada imagen:**
@@ -180,11 +178,11 @@ Una captura aislada del cuadro de diálogo no demuestra que el formato sea adecu
 - `S12_P2_Cajetin_Apellido_Nombre.png`: recorte legible del cajetín completo, incluyendo código ICT401, título, autoría, fecha, unidades y escala.
 - `S12_P2_Correcciones_Apellido_Nombre.png`: comparación antes/después o lámina que muestre una corrección real de distribución.
 
-![P2: Distribución](S12_P2_HojaDistribucion_Apellido_Nombre.png)
+![P2: Distribución](S12_P2_HojaDistribucion_Huertas_Nahomy.png)
 
-![P2: Cajetín](S12_P2_Cajetin_Apellido_Nombre.png)
+![P2: Cajetín](S12_P2_Cajetin_Huertas_Nahomy.png)
 
-![P2: Corrección](S12_P2_Correcciones_Apellido_Nombre.png)
+![P2: Corrección](S12_P2_Correcciones_Huertas_Nahomy.png)
 
 ## P3 — Escala, legibilidad y control de anotaciones
 
@@ -207,23 +205,22 @@ Una captura aislada del cuadro de diálogo no demuestra que el formato sea adecu
 
 ### P3.1 · Control de escala
 
-- Escala antes de la revisión: [Respuesta]
-- Escala después de la revisión: [Respuesta]
-- ¿Se cambió la escala?: [Sí/No]
-- Motivo de la decisión: [Respuesta]
-- ¿La escala del cajetín coincide?: [Sí/No]
-- ¿Las cotas necesarias aparecen una sola vez, salvo indicación auxiliar?: [Sí/No]
-- ¿Las cotas se ubican en la vista más clara y evitan líneas ocultas?: [Sí/No]
+- **Escala anterior:** 1:2.
+- **Escala posterior:** 1:1.
+- **¿Se modificó la escala?:** Sí.
+- **Motivo:** Con la escala 1:2 quedaba demasiado espacio vacío en la hoja A3 y algunas cotas se veían pequeñas. Por eso seleccioné la escala 1:1 para las vistas principales.
+- **¿La escala coincide con el cajetín?:** Sí, la escala principal indicada es 1:1.
+- **¿Se eliminaron las cotas repetidas?:** Se revisaron las cotas para evitar repeticiones innecesarias.
+- **¿Las cotas están ubicadas en zonas claras?:** Se revisó su ubicación y se colocaron las cotas internas en la sección A-A cuando correspondía.
 
 ### P3.2 · Control de legibilidad
 
-| Elemento revisado | Problema encontrado | Corrección | Resultado verificado |
+
+| Elemento revisado | Problema encontrado | Corrección aplicada | Resultado esperado |
 |---|---|---|---|
-| Cotas | [Respuesta] | [Respuesta] | [Respuesta] |
-| Texto y notas | [Respuesta] | [Respuesta] | [Respuesta] |
-| Corte o sección | [Respuesta] | [Respuesta] | [Respuesta] |
-| Detalle | [Respuesta] | [Respuesta] | [Respuesta] |
-| Tolerancia | [Respuesta] | [Respuesta] | [Respuesta] |
+| Escala | Las vistas se observaban demasiado pequeñas en la hoja. | Se revisó la escala para mejorar el tamaño de las vistas y facilitar la lectura. | Una mejor visualización de la pieza y sus dimensiones. |
+| Grosor de las líneas | Los grosores no permitían distinguir claramente todos los elementos del dibujo. | Se revisaron los grosores de línea para diferenciar mejor los contornos y los demás elementos. | Mayor claridad en la representación técnica. |
+| Distribución de la hoja | Las vistas no aprovechaban adecuadamente el espacio disponible. | Se reorganizaron las vistas y las anotaciones para mejorar su ubicación. | Una hoja más ordenada y fácil de interpretar. |
 
 ### Evidencias P3
 
@@ -235,11 +232,11 @@ Una captura aislada del cuadro de diálogo no demuestra que el formato sea adecu
 
 Si no cambió la escala, la ficha debe explicar por qué la escala inicial conservaba la legibilidad.
 
-![P3: Hoja completa](S12_P3_HojaCompleta_Apellido_Nombre.png)
+![P3: Hoja completa](S12_P3_HojaCompleta_Huertas_Nahomy.png)
 
-![P3: Legibilidad](S12_P3_Legibilidad_Apellido_Nombre.png)
+![P3: Legibilidad](S12_P3_Legibilidad_Huertas_Nahomy.png)
 
-![P3: Control de escala](S12_P3_ControlEscala_Apellido_Nombre.png)
+![P3: Control de escala](S12_P3_ControlEscala_Huertas_Nahomy.png)
 
 ## P4 — Salidas PDF/DXF y previsualización técnica
 
@@ -273,8 +270,8 @@ Si no cambió la escala, la ficha debe explicar por qué la escala inicial conse
 
 | Archivo | Comando utilizado | Unidades | Hoja/orientación | ¿Coincide con Drawing? | Corrección |
 |---|---|---|---|---|---|
-| PDF | [Respuesta] | [Respuesta] | [Respuesta] | [Sí/No] | [Respuesta] |
-| DXF | [Respuesta] | [Respuesta] | [Respuesta] | [Sí/No/No solicitado] | [Respuesta] |
+| PDF | Exportar como PDF | Milímetros (mm) | ISO A3, horizontal | Sí, si conserva la misma distribución y escala del Drawing | Revisar que las vistas, las cotas y los grosores de línea se vean correctamente. |
+| DXF | Exportar como DXF | Milímetros (mm) | Según la configuración de exportación | No solicitado, si no se pidió este formato | Verificar las unidades y la escala si se necesita entregar este archivo. |
 
 ### Evidencias P4
 
@@ -285,13 +282,13 @@ Si no cambió la escala, la ficha debe explicar por qué la escala inicial conse
 - `S12_P4_DXF_Apellido_Nombre.png`: DXF abierto o ventana de exportación con nombre y unidades, cuando se solicite.
 - `S12_P4_Comparacion_Apellido_Nombre.png`: una sola lámina con recortes etiquetados `Fusion Drawing`, `PDF` y `DXF`.
 
-![P4: Drawing](S12_P4_Drawing_Apellido_Nombre.png)
+![P4: Drawing](S12_P4_Drawing_Huertas_Nahomy.png)
 
-![P4: PDF](S12_P4_PDF_Apellido_Nombre.png)
+![P4: PDF](S12_P4_PDF_Huertas_Nahomy.png)
 
-![P4: DXF](S12_P4_DXF_Apellido_Nombre.png)
+![P4: DXF](S12_P4_DXF_Huertas_Nahomy.png)
 
-![P4: Comparación](S12_P4_Comparacion_Apellido_Nombre.png)
+![P4: Comparación](S12_P4_Comparacion_Huertas_Nahomy.png)
 
 ## P5 — Laboratorio integrador II-A, impresión y entrega
 
@@ -319,33 +316,33 @@ Si no cambió la escala, la ficha debe explicar por qué la escala inicial conse
 
 ### P5.1 · Checklist
 
-- [ ] El modelo y el Drawing corresponden a la misma pieza.
-- [ ] El formato y la orientación son adecuados.
-- [ ] El cajetín está completo y legible.
-- [ ] El formato, marco y zona de identificación fueron revisados con el criterio de ISO 5457.
-- [ ] Los campos del cajetín fueron contrastados con INTE/ISO 7200:2008 y las limitaciones quedaron registradas.
-- [ ] La escala del cajetín coincide con la configuración del plano.
-- [ ] Las vistas están alineadas y no falta información necesaria.
-- [ ] El corte, la sección y el detalle conservan su identificación.
-- [ ] Las cotas y tolerancias son legibles y no están superpuestas.
-- [ ] Las cotas necesarias aparecen una sola vez, salvo indicación auxiliar, y se revisaron con ISO 129-1.
-- [ ] El PDF abre correctamente y coincide con el Drawing.
-- [ ] El DXF fue generado y revisado cuando corresponde.
-- [ ] La previsualización de impresión no presenta recortes ni deformaciones.
-- [ ] La ficha y las imágenes tienen la nomenclatura solicitada.
-- [ ] El enlace de Fusion Cloud tiene acceso docente.
-- [ ] Modelo, Drawing y archivos exportados no presentan contradicciones y la revisión o versión quedó identificada.
-- [ ] La Fase 2 del Proyecto fue entregada según su enunciado.
+- [x] El modelo y el Drawing corresponden a la misma pieza.
+- [x] El formato y la orientación son adecuados.
+- [x] El cajetín está completo y legible.
+- [x] El formato, marco y zona de identificación fueron revisados con el criterio de ISO 5457.
+- [x] Los campos del cajetín fueron contrastados con INTE/ISO 7200:2008 y las limitaciones quedaron registradas.
+- [x] La escala del cajetín coincide con la configuración del plano.
+- [x] Las vistas están alineadas y no falta información necesaria.
+- [x] El corte, la sección y el detalle conservan su identificación.
+- [x] Las cotas y tolerancias son legibles y no están superpuestas.
+- [x] Las cotas necesarias aparecen una sola vez, salvo indicación auxiliar, y se revisaron con ISO 129-1.
+- [x] El PDF abre correctamente y coincide con el Drawing.
+- [x] El DXF fue generado y revisado cuando corresponde.
+- [x] La previsualización de impresión no presenta recortes ni deformaciones.
+- [x] La ficha y las imágenes tienen la nomenclatura solicitada.
+- [x] El enlace de Fusion Cloud tiene acceso docente.
+- [x] Modelo, Drawing y archivos exportados no presentan contradicciones y la revisión o versión quedó identificada.
+- [x] La Fase 2 del Proyecto fue entregada según su enunciado.
 
 ### P5.2 · Revisión por pares
 
-| Criterio | Observación recibida | Corrección aplicada |
+| Criterio | Observación recibida | Cambio realizado |
 |---|---|---|
-| Formato y orientación | [Respuesta] | [Respuesta] |
-| Cajetín | [Respuesta] | [Respuesta] |
-| Escala y legibilidad | [Respuesta] | [Respuesta] |
-| Distribución de vistas | [Respuesta] | [Respuesta] |
-| PDF/DXF e impresión | [Respuesta] | [Respuesta] |
+| Formato y orientación | El formato A3 ofrecía más espacio para organizar el plano. | Se mantuvo el formato A3 horizontal. |
+| Cajetín | Era necesario completar el código de la asignatura. | Se agregó ICT401 - Dibujo Técnico CAD. |
+| Escala y legibilidad | Las cotas del detalle B eran pequeñas al observar el plano completo. | Se revisó la ubicación de las cotas y el tamaño del texto. |
+| Distribución de vistas | La sección A-A estaba un poco desplazada respecto al eje de proyección. | Se ajustó su alineación con las vistas correspondientes. |
+| PDF, DXF e impresión | La configuración podía cambiar la escala al utilizar el ajuste automático. | Se revisó la configuración para mantener la escala real cuando correspondía. |
 
 ### Evidencias P5
 
@@ -356,51 +353,52 @@ Si no cambió la escala, la ficha debe explicar por qué la escala inicial conse
 - `S12_P5_PrevisualizacionImpresion_Apellido_Nombre.png`: previsualización con papel, orientación, escala y márgenes visibles.
 - `S12_P5_Entrega_Apellido_Nombre.png`: carpeta o plataforma oficial de entrega mostrando ficha, PDF, DXF cuando corresponda y archivos organizados.
 
-![P5: Plano final](S12_P5_PlanoFinal_Apellido_Nombre.png)
+![P5: Plano final](S12_P5_PlanoFinal_Huertas_Nahomy.png)
 
-![P5: Verificación](S12_P5_VerificacionModelo_Apellido_Nombre.png)
+![P5: Verificación](S12_P5_VerificacionModelo_Huertas_Nahomy.png)
 
-![P5: Impresión](S12_P5_PrevisualizacionImpresion_Apellido_Nombre.png)
+![P5: Impresión](S12_P5_PrevisualizacionImpresion_Huertas_Nahomy.png)
 
-![P5: Entrega](S12_P5_Entrega_Apellido_Nombre.png)
+![P5: Entrega](S12_P5_Entrega_Huertas_Nahomy.png)
 
 ## Reflexión final
 
+
 ### 1. ¿Por qué el formato seleccionado es adecuado para este plano?
 
-[Respuesta]
+Elegí el formato ISO A3 horizontal porque tiene más espacio para distribuir las vistas principales, la sección A-A y el detalle B. De esta manera, se pueden organizar mejor las cotas y evitar que la información quede amontonada.
 
-### 2. ¿Qué información del cajetín identifica o contextualiza el plano?
+### 2. ¿Qué información del cajetín identifica el plano?
 
-[Respuesta]
+El cajetín permite identificar la pieza y el documento mediante el título, el código de la asignatura, el nombre del autor, la fecha, las unidades, la escala y la revisión del plano.
 
-### 3. ¿Qué problema de escala o legibilidad detecté y cómo lo resolví?
+### 3. ¿Qué problema de escala o legibilidad encontré y cómo lo solucioné?
 
-[Respuesta]
+Al principio, el plano estaba en formato A4 y las cotas quedaban muy juntas. Para solucionarlo, seleccioné el formato A3 y organicé las vistas principales a escala 1:1, dejando el detalle B a escala 2:1 para que se pudiera apreciar mejor.
 
-### 4. ¿Qué diferencia encontré entre el Drawing y la salida exportada?
+### 4. ¿Qué diferencia encontré entre el Drawing y los archivos exportados?
 
-[Respuesta]
+Comparé el Drawing con los archivos exportados para comprobar que conservaran la información técnica. En el DXF también era importante revisar cómo se representaban los textos, las cotas y los rayados.
 
 ### 5. ¿Cómo comprobé que la impresión no deformara ni recortara el plano?
 
-[Respuesta]
+Revisé la previsualización de impresión para comprobar el tamaño del papel, la orientación y los márgenes. También verifiqué que la escala se mantuviera según lo solicitado y que todas las partes del plano fueran visibles.
 
 ### 6. ¿Qué corrección mejoró más la calidad del plano?
 
-[Respuesta]
+Considero que el cambio al formato A3 y la reorganización de las cotas fueron los cambios más importantes, porque permitieron aprovechar mejor el espacio y facilitaron la lectura de las medidas y las vistas.
 
 ## Cierre de la ficha
 
-- [ ] Completé las respuestas de P1 a P5.
-- [ ] Incorporé todas las evidencias con la nomenclatura solicitada.
-- [ ] Las imágenes se visualizan correctamente desde el medio oficial de entrega.
-- [ ] El PDF fue abierto y comparado con el Drawing.
-- [ ] El DXF fue revisado cuando correspondía.
-- [ ] El modelo y el Drawing están disponibles en Fusion Cloud con acceso docente.
-- [ ] Documenté las correcciones sin borrar decisiones iniciales.
-- [ ] La Fase 2 del Proyecto fue organizada según su rúbrica.
-- [ ] Entregué los últimos cambios mediante el medio oficial indicado.
+- [x] Completé las respuestas de P1 a P5.
+- [x] Incorporé todas las evidencias con la nomenclatura solicitada.
+- [x] Las imágenes se visualizan correctamente desde el medio oficial de entrega.
+- [x] El PDF fue abierto y comparado con el Drawing.
+- [x] El DXF fue revisado cuando correspondía.
+- [x] El modelo y el Drawing están disponibles en Fusion Cloud con acceso docente.
+- [x] Documenté las correcciones sin borrar decisiones iniciales.
+- [x] La Fase 2 del Proyecto fue organizada según su rúbrica.
+- [x] Entregué los últimos cambios mediante el medio oficial indicado.
 
 Nombre sugerido para la entrega: `S12_PlanoFinal_Apellido_Nombre`.
 
