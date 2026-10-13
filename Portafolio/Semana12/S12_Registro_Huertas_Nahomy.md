@@ -6,9 +6,9 @@
 - Grupo: 60
 - Proyecto de Fusion Cloud con acceso docente: Nahomy Huertas
 - Drawing de referencia de Semana 11: S09_P3_Modelo_Huertas_Nahomy
-- Modelo utilizado: [Nombre del diseño]
-- Laboratorio integrador II-A: [Respuesta]
-- Fase 2 del Proyecto: [Respuesta]
+- Modelo utilizado: S09_P3_Modelo_Huertas_Nahomy
+- Laboratorio integrador II-A: Completado
+- Fase 2 del Proyecto: entregado
 
 ## Instrucciones
 
@@ -52,11 +52,11 @@ Use las referencias normativas disponibles en el aula virtual como criterios de 
 
 | Referencia | Apartado o criterio aplicado | Evidencia asociada | Resultado o limitación |
 |---|---|---|---|
-| ISO 5457 | [Respuesta] | [Nombre de imagen o captura] | [Conforme/Limitación] |
-| INTE/ISO 7200:2008 | [Respuesta] | [Nombre de imagen o captura] | [Conforme/Limitación] |
-| ISO 128-1/128-3 | [Respuesta] | [Nombre de imagen o captura] | [Conforme/Limitación] |
-| ISO 129-1 | [Respuesta] | [Nombre de imagen o captura] | [Conforme/Limitación] |
-| ISO 16792:2021 | [Respuesta] | [Nombre de imagen o captura] | [Conforme/Limitación] |
+| ISO 5457 | Selección del formato ISO A3 (420 × 297 mm), con orientación horizontal y marco con márgenes normalizados. | S12_P1_DecisionFormato_Huertas_Nahomy.png | Conforme. |
+| INTE/ISO 7200:2008 | Organización del cajetín de título con el código ICT401, título del proyecto, autor (Nahomy Huertas), fecha y escala. | S12_P2_Cajetin_Huertas_Nahomy.png | Conforme. Limitación: algunos campos predeterminados del bloque de Fusion 360 aparecen en inglés. |
+| ISO 128-1 / ISO 128-3 | Representación mediante vistas ortogonales, identificación del corte A-A y presentación del detalle B ampliado. | S12_P2_HojaDistribucion_Huertas_Nahomy.png | Conforme. |
+| ISO 129-1 | Aplicación de criterios de acotación para evitar redundancias, colocar las cotas fuera del cuerpo de la pieza y comprobar la legibilidad de las tolerancias. | S12_P3_Legibilidad_Huertas_Nahomy.png | Conforme. |
+| ISO 16792:2021 | Verificación de la correspondencia entre el modelo 3D, el plano técnico (*Drawing*) y los archivos exportados en PDF y DXF, procurando mantener la misma versión del diseño. | S12_P4_Comparacion_Huertas_Nahomy.png | Conforme. |
 
 Si la plantilla o la versión de Fusion no permite mostrar un dato, escriba la limitación concreta. Las medidas propias de la actividad deben identificarse como decisiones didácticas, no como dimensiones ISO.
 
