@@ -59,7 +59,7 @@
 
 ![P5: Verificación](S12_P5_VerificacionModelo_Huertas_Nahomy.png)
 
-![P5: Impresión](S12_P5_PrevisualizacionImpresion_Huertas_Nahomy.png)
+![P5: Impresión](S12_P5_PrevisionImpresion_Huertas_Nahomy.png)
 
 ![P5: Entrega](S12_P5_Entrega_Huertas_Nahomy.png)
 
