@@ -55,7 +55,7 @@ Las demás dimensiones del organizador se mantienen como fueron documentadas en 
 
 Aquí se inserta la captura del croquis utilizado como referencia inicial del modelado de la pieza.
 
-![Croquis inicial del organizador](AlternativaB_Nahomy_Huertas_OrganizadorLibros.png)
+![Croquis inicial del organizador](AlternativaB_Nahomy_Huertas_OrganizadorLibros.jpeg)
 
 
 ### 4.1. Modificación de las formas diagonales
@@ -144,7 +144,7 @@ En esta fase se modificó la longitud de las formas diagonales del organizador y
 
 ## 8. Links de Piezas en Fusion
 
-Pieza organizador solo: https://a360.co/4ydf4xe
-Pieza de Barra de retención: https://a360.co/4srKUoP
-Pieza final con la unión de ambas: https://a360.co/3UfJsJA
+- Pieza organizador solo: https://a360.co/4ydf4xe
+- Pieza de Barra de retención: https://a360.co/4srKUoP
+- Pieza final con la unión de ambas: https://a360.co/3UfJsJA
 
