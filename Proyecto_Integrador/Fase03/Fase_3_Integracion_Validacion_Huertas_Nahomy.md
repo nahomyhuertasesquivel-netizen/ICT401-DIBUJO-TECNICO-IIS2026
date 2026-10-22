@@ -64,15 +64,12 @@ Primero, se modificaron las formas diagonales de la pieza original del organizad
 
 **Evidencia 1. Longitud de las formas diagonales**
 
-Archivo: `F3_E01_Longitud_Diagonales_70mm.png`
-
 ![Longitud de las formas diagonales](F3_E01_Longitud_Diagonales_70mm.png)
 
 **Evidencia 2. Ancho de las formas diagonales**
 
-Archivo: `F3_E02_Ancho_Diagonales_20mm.png`
-
 ![Ancho de las formas diagonales](F3_E02_Diagonales.png)
+
 
 ### 4.2. Creación de la barra de retención
 
@@ -82,9 +79,8 @@ Esta barra tiene la función de ayudar a mantener los libros en su lugar y evita
 
 **Evidencia 3. Boceto de la base de la barra de retención**
 
-Archivo: `F3_E03_Boceto_Base_Barra.png`
-
 ![Boceto de la base de la barra de retención](F3_E03_Boceto_Base_Barra.png)
+
 
 ### 4.3. Creación de los extremos laterales de la barra
 
@@ -92,15 +88,12 @@ En las caras exteriores de ambos lados de la barra se realizaron bocetos rectang
 
 **Evidencia 4. Boceto de los rectángulos laterales**
 
-Archivo: `F3_E04_Bocetos_Rectangulos_Laterales.png`
-
 ![Boceto de los rectángulos laterales](F3_E04_Bocetos_Rectangulos_Laterales.png)
 
 **Evidencia 5. Extrusión de los rectángulos laterales**
 
-Archivo: `F3_E05_Extrusion_Rectangulos_Laterales.png`
-
 ![Extrusión de los rectángulos laterales](F3_E05_Extrusion_Rectangulos_Laterales.png)
+
 
 ### 4.4. Resultado de la barra de retención
 
@@ -108,9 +101,8 @@ Una vez terminadas las operaciones de modelado, se revisó la geometría de la b
 
 **Evidencia 6. Barra de retención terminada**
 
-Archivo: `F3_E06_Barra_Retencion_Final.png`
-
 ![Barra de retención terminada](F3_E06_Barra_Retencion_Final.png)
+
 
 ### 4.5. Integración de las piezas mediante una relación de unión
 
@@ -120,9 +112,8 @@ A continuación, se utilizó la opción **Relación > Unión** para establecer l
 
 **Evidencia 7. Organizador y barra de retención ensamblados**
 
-Archivo: `F3_E07_Ensamblaje_Final_Union.png`
-
 ![Organizador y barra de retención ensamblados](F3_E07_Ensamblaje_Final_Union.png)
+
 
 ### 4.6 Referencia de uso Pieza final
 
