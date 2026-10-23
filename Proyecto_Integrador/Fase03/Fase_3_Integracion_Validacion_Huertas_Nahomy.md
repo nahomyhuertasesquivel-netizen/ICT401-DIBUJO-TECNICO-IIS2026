@@ -114,8 +114,13 @@ A continuación, se utilizó la opción **Relación > Unión** para establecer l
 
 ![Organizador y barra de retención ensamblados](F3_E07_Ensamblaje_Final_Union.png)
 
+### 4.6. Interferencia de la figura
 
-### 4.6 Referencia de uso Pieza final
+Se calculó la interferencia de la figura, dando como resultado de que no se encontró ninguna.
+
+![Interferencia de las figuras](F3_E07_Interferencia.png)
+
+### 4.7 Referencia de uso Pieza final
 
 En esta sección se muestra el organizador con libros y cuadernos colocados en sus compartimentos, para demostrar su funcionamiento y la utilidad de la barra de retención.
 
