@@ -71,7 +71,7 @@ Las vistas pueden distribuirse en varias hojas, pero deben permanecer dentro del
 | Estado inicial del ensamblaje | Conjunto formado por la base, el soporte vertical y el pasador, antes de crear la vista explosionada. |
 
 **Captura del conjunto antes de crear la vista explosionada:**
-![Conjunto inicial de la Semana 13](evidencias/S14_E1_Conjunto_Inicial.png)
+![Conjunto inicial de la Semana 13](evidenciasS14_E1_Conjunto_Inicial.png)
 
 | Análisis de referencia | Registro |
 |---|---|
@@ -106,9 +106,9 @@ Agregue filas si el conjunto contiene más componentes.
 
 | Orden | Componente | Dirección o referencia de separación | Razón funcional | Distancia aproximada | Comprobado |
 |---|---|---|---|---|---|
-| 1 | Pasador o eje cilíndrico | A lo largo de su propio eje, alejándose del alojamiento. | Representar cómo se separa del soporte. | - | [x] |
-| 2 | Soporte vertical | Alejándose de la base en la dirección que permita mostrar su contacto de montaje. | Mostrar la relación entre el soporte y la base. | - | [x] |
-| 3 | Base | Se conserva como referencia fija. | Mantener una referencia visual para interpretar el conjunto. | — | [x] |
+| 1 | Pasador o eje cilíndrico | A lo largo de su propio eje, alejándose del alojamiento. | Representar cómo se separa del soporte. | 45mm | [x] |
+| 2 | Soporte vertical | Alejándose de la base en la dirección que permita mostrar su contacto de montaje. | Mostrar la relación entre el soporte y la base. | 50mm | [x] |
+| 3 | Base | Se conserva como referencia fija. | Mantener una referencia visual para interpretar el conjunto. | 30mm | [x] |
 
 | Pregunta de análisis | Respuesta |
 |---|---|
@@ -125,10 +125,10 @@ Agregue filas si el conjunto contiene más componentes.
 **Criterio para separar los componentes:** Secuencia de desmontaje secuencial manteniendo visibilidad de caras de contacto y líneas de trayectoria (Trail Lines).
 
 **Captura de la vista explosionada:**
-![Vista explosionada inicial](evidencias/S14_E2_Vista_Explosionada.png)
+![Vista explosionada inicial](evidenciasS14_E2_Vista_Explosionada.png)
 
 **Captura de la posición o versión intermedia, si corresponde:**
-![Posición o storyboard intermedio](evidencias/S14_E2_Posicion_Intermedia.png)
+![Posición o storyboard intermedio](evidenciasS14_E2_Posicion_Intermedia.png)
 
 **Decisiones realizadas en Fusion:**
 
@@ -150,12 +150,12 @@ Agregue filas si el conjunto contiene más componentes.
 
 | Ítem | Identificador visible | Nombre en la lista | Cantidad | Componente correspondiente | Verificado |
 |---:|---|---|---:|---|---|
-| 1 | 1 | base |  | 1 | Base | [x] |
+| 1 | 1 | base | 1 | Base | [x] |
 | 2 | 2 | soporte | 1 | Soporte | [x] |
 | 3 | 3 | pasador | 1 | Pasador | [x] |
 
 
-![Lista básica de componentes e identificadores](evidencias/S14_E3_Lista_Componentes.png)
+![Lista básica de componentes e identificadores](evidenciasS14_E3_Lista_Componentes.png)
 
 | Comparación | Resultado |
 |---|---|
@@ -192,13 +192,13 @@ Agregue filas si el conjunto contiene más componentes.
 | La versión del modelo, Storyboard, Drawing y evidencias coincide | [x] | [ ] |  |
 
 **Archivo o captura de la documentación final:** <br>
-![Documentación final del conjunto](evidencias/S14_E4_Documentacion_Final.png)
+![Documentación final del conjunto](evidenciasS14_E4_Documentacion_Final.png)
 
 | Resultado de la revisión con la rúbrica | Registro |
 |---|---|
-| Criterio que cumple mejor |  |
-| Criterio que requiere corrección |  |
-| Corrección prioritaria |  |
+| Criterio que cumple mejor | - |
+| Criterio que requiere corrección | - |
+| Corrección prioritaria | - |
 
 ### 7. Problemas y correcciones
 
@@ -229,13 +229,13 @@ Agregue filas si el conjunto contiene más componentes.
 | Lista básica de componentes | `evidencias/S14_E3_Lista_Componentes.png` | [x] |  |
 | Documentación del conjunto | `evidencias/S14_E4_Documentacion_Final.png` | [x] |  |
 | Captura del estado inicial | `evidencias/S14_E1_Conjunto_Inicial.png` | [x] |  |
-| Tabla y justificación del componente de referencia |  | [x] |  |
-| Plan de montaje y separación de la Lección 1 |  | [x] |  |
-| Registro de la dificultad o duda comprobada |  | [x] |  |
-| Capturas del proceso o de las correcciones |  | [x] |  |
+| Tabla y justificación del componente de referencia |  `evidencias/S14_E3_Lista_Componentes.png` | [x] |  |
+| Plan de montaje y separación de la Lección 1 | `evidencias/S14_E1_Conjunto_Inicial.png` | [x] |  |
+| Registro de la dificultad o duda comprobada | - | [x] |  |
+| Capturas del proceso o de las correcciones | - | [x] |  |
 | Registro de la posición o storyboard | `evidencias/S14_E2_Posicion_Intermedia.png` | [x] |  |
-| Ficha completa y nombrada correctamente |  | [x] |  |
-| Revisión de la rúbrica de la Fase 3 |  | [x] |  |
+| Ficha completa y nombrada correctamente | `evidencias/S14_E4_Documentacion_Final.pdf` | [x] |  |
+| Revisión de la rúbrica de la Fase 3 | - | [] |  |
 
 ### 10. Cierre
 
@@ -243,5 +243,5 @@ Agregue filas si el conjunto contiene más componentes.
 |---|---|
 | Dificultad principal | Lograr la alineación correcta entre el eje del pasador y el alojamiento del soporte, además de distribuir los componentes de forma clara en la vista explosionada. |
 | Decisión técnica más importante | Utilizar la base como referencia fija y separar el pasador y el soporte siguiendo una dirección que permita comprender su relación de montaje. |
-| Pendiente antes de entregar | - |
+| Pendiente antes de entregar | Fase 03 |
 | Nombre final de la versión entregada | ICT401_S14_Ensamblaje_HuertasNahomy |
