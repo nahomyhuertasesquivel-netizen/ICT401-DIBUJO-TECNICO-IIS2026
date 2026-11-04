@@ -20,6 +20,7 @@ Los archivos nativos correspondientes al proyecto se encuentran en la carpeta de
 | `ICT401_PROY_F02_Huertas_Nahomy_Organizador_Libros` | Modelo original del organizador, utilizado como base para el desarrollo del proyecto. |
 | `ICT401_PROY_F03_BarraRetención` | Archivo de la barra de retención como pieza independiente. |
 | `ICT401_PROY_F03_NahomyHuertas` | Archivo del ensamblaje del organizador con la barra de retención. |
+| `ICT401_PROY_F04_NahomyHuertas Dibujo` | Archivo del Drawing del organizador con la barra de retención. |
 
 
 
@@ -53,7 +54,8 @@ Se realizó una revisión del modelo tridimensional del organizador después de 
 
 **Evidencia 1 --- Modelo tridimensional final**
 
-Guarda la captura en `evidencias-01-modelo-final.png`.
+![Modelo tridimensional final](evidencias01-modelo-final.png)
+
 
 ### 5.1. Animación con la barra ensamblada
 
@@ -61,7 +63,7 @@ Se realizó una animación en la que se muestra la barra de retención unida al 
 
 **Evidencia 2 --- Barra de retención ensamblada**
 
-Guarda la captura en `evidencias-02-barra-ensamblada.png`.
+![Barra de retención ensamblada](evidencias02-barra-ensamblada.png)
 
 ### 5.2. Animación con la barra separada
 
@@ -69,7 +71,7 @@ En la segunda animación se muestra la barra de retención separada del organiza
 
 **Evidencia 3 --- Barra de retención separada**
 
-Guarda la captura en `evidencias-03-barra-separada.png`.
+![Barra de retención separada](evidencias03-barra-separada.png)
 
 ## 6. Acotación y tolerancias dimensionales
 
@@ -98,7 +100,7 @@ Se utilizó una tolerancia de tipo **Deviation (desviación)**, con un límite s
 
 **Evidencia 4 --- Tolerancia dimensional de la barra**
 
-Guarda la captura en `evidencias-04-tolerancia-barra.png`.
+![Tolerancia dimensional de la barra](evidencias-04-tolerancia-barra.png)
 
 ## 7. Elaboración del plano técnico (Drawing)
 
@@ -110,7 +112,7 @@ Se realizó una revisión de las cotas y de la representación de las piezas par
 
 **Evidencia 5 --- Drawing completo**
 
-Guarda la captura en `evidencias-05-drawing-final.png`.
+![Drawing final del organizador](evidencias-05-drawing-final.png)
 
 ## 8. Archivos de intercambio y documentación final
 
@@ -118,11 +120,10 @@ En esta sección se incorporan los enlaces a los archivos derivados del proyecto
 
 | Archivo | Formato | Enlace |
 |---|---|---|
-| Plano técnico | PDF | ICT401_PROY_F04_ARCHIVO PDF.pdf |
-| Plano técnico editable | DXF | ICT401_PROY_F04_ARCHIVO DXF.dxf |
-| Modelo tridimensional | STEP | ICT404_PROY_F04_ARCHIVO STEP.step |
-| Modelo para impresión 3D | STL | ICT404_PROY_F04_ARCHIVO SLT.stl |
-
+| Plano técnico | PDF | [Ver PDF](ICT401_PROY_F04_ARCHIVO%20PDF.pdf) |
+| Plano técnico editable | DXF | [Ver DXF](ICT401_PROY_F04_ARCHIVO%20DXF.dxf) |
+| Modelo tridimensional | STEP | [Ver STEP](ICT404_PROY_F04_ARCHIVO%20STEP.step) |
+| Modelo para impresión 3D | STL | [Ver STL](ICT404_PROY_F04_ARCHIVO%20SLT.stl) |
 
 
 ## 9. Dificultades y decisiones técnicas
