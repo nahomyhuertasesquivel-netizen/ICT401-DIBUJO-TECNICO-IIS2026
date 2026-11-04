@@ -5,7 +5,7 @@
 | Campo | Información |
 |---|---|
 | Proyecto | Organizador de escritorio para libros y cuadernos |
-| Fase | 4 – Documentación y archivos finales |
+| Fase | 4 |
 | Estudiante | Nahomy Marcela Huertas Esquivel |
 | Curso | ICT401 – Dibujo Técnico Asistido por Computadora |
 | Software | Autodesk Fusion |
@@ -118,10 +118,10 @@ En esta sección se incorporan los enlaces a los archivos derivados del proyecto
 
 | Archivo | Formato | Enlace |
 |---|---|---|
-| Plano técnico | PDF | [Agregar enlace] |
-| Plano técnico editable | DXF | [Agregar enlace] |
-| Modelo tridimensional | STEP | [Agregar enlace] |
-| Modelo para impresión 3D | STL | [Agregar enlace] |
+| Plano técnico | PDF | ICT401_PROY_F04_ARCHIVO PDF.pdf |
+| Plano técnico editable | DXF | ICT401_PROY_F04_ARCHIVO DXF.dxf |
+| Modelo tridimensional | STEP | ICT404_PROY_F04_ARCHIVO STEP.step |
+| Modelo para impresión 3D | STL | ICT404_PROY_F04_ARCHIVO SLT.stl |
 
 
 
@@ -136,3 +136,8 @@ Se seleccionó la altura de la barra de retención para aplicar una tolerancia d
 **Resultado final:**  
 Se completó la documentación técnica del organizador mediante el modelo tridimensional final, las animaciones del conjunto, la aplicación de tolerancias y la elaboración del Drawing.
 
+## 10. Archivos Fusion
+| Archivo | Enlace | 
+|---|---|
+| Drawing | https://a360.co/4sDSUDe | 
+| Animación | https://a360.co/48itUs5 | 
