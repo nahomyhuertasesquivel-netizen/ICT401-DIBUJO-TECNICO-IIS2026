@@ -4,7 +4,7 @@
 **Semana:** 16
 **Laboratorio:** Integrador II-B
 **Valor del laboratorio:** 10 %
-**Estudiante o equipo:** Apellido, Nombre
+**Estudiante o equipo:** Huertas Nahomy
 **Proyecto:** Nombre breve del Proyecto Integrador
 **Fecha:** 05 de noviembre de 2026
 **Versión inicial:** `nombre_proyecto_v__`
