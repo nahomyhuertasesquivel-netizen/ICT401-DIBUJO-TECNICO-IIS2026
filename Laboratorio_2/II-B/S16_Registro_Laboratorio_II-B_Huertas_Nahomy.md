@@ -7,8 +7,8 @@
 **Estudiante o equipo:** Huertas Nahomy
 **Proyecto:** Organizador de escritorio para libros y cuadernos
 **Fecha:** 05 de noviembre de 2026
-**Versión inicial:** `hgvfh`
-**Versión evaluada:** `nombre_proyecto_v__`
+**Versión inicial:** `ICT404_PROY_F03_NahomyHuertas`
+**Versión evaluada:** `Proyecto_v04_respaldo_Huertas_Nahomy`
 
 ## Propósito y alcance
 
@@ -109,7 +109,7 @@ No agregue una tolerancia que no esté indicada en el plano, la rúbrica o la in
 
 | Característica | Herramienta o método | Resultado | Limitación de la comprobación |
 |---|---|---|---|
-| Altura de la barra de retención | `Inspect > Measure`, medición de distancia | Conforme | Permite revisar la dimensión nominal, pero no garantiza el cumplimiento de la tolerancia en una pieza fabricada. |
+| Altura de la barra de retención | Selección de la cota en el plano y configuración de tolerancia tipo `Deviation` (+0,5 mm / -0,2 mm). | Conforme | Permite establecer los límites de variación dimensional en el plano, pero no comprueba las dimensiones de una pieza fabricada. |
 
 **Ejemplo de cálculo, si corresponde:**
 
@@ -122,6 +122,8 @@ Después de corregir, guarde la versión evaluada desde **File > Save** o la ord
 
 ### Correcciones finales
 
+**No Aplica**
+
 | Problema | Acción aplicada | Resultado | Evidencia |
 |---|---|---|---|
 | Ejemplo: PDF con escala incorrecta | Corregir escala del Drawing y exportar de nuevo | PDF revisado en 4 hojas | `S16_E4_PDF_v04.png` |
@@ -130,44 +132,57 @@ Después de corregir, guarde la versión evaluada desde **File > Save** o la ord
 
 ### Checklist del Laboratorio II-B
 
-- [ ] La versión del modelo y la documentación coincide.
-- [ ] El plano final fue revisado.
-- [ ] La lista básica coincide con el ensamblaje, cuando corresponde.
-- [ ] Cada archivo exportado tiene un propósito registrado.
-- [ ] Las salidas fueron revisadas fuera del comando de exportación.
-- [ ] Se registraron unidades, escala, orientación y versión.
-- [ ] Se realizó al menos una comprobación dimensional básica.
-- [ ] Las tolerancias introductorias fueron interpretadas sin inventar valores.
-- [ ] Se registraron discrepancias y correcciones.
-- [ ] La versión evaluada fue respaldada.
-- [ ] La ficha está completa.
+- [x] La versión del modelo y la documentación coincide.
+- [x] El plano final fue revisado.
+- [x] La lista básica coincide con el ensamblaje, cuando corresponde.
+- [x] Cada archivo exportado tiene un propósito registrado.
+- [x] Las salidas fueron revisadas fuera del comando de exportación.
+- [x] Se registraron unidades, escala, orientación y versión.
+- [x] Se realizó al menos una comprobación dimensional básica.
+- [x] Las tolerancias introductorias fueron interpretadas sin inventar valores.
+- [x] Se registraron discrepancias y correcciones.
+- [x] La versión evaluada fue respaldada.
+- [x] La ficha está completa.
 
 ### Evidencias finales del laboratorio
 
 | Evidencia | Nombre o ruta | Completa | Observaciones |
 |---|---|:---:|---|
-| Estado inicial y auditoría | `evidencias/S16_E1_Estado_Inicial.png` | [ ] |  |
-| Exportaciones y comprobación | `evidencias/S16_E2_Exportaciones.png` | [ ] |  |
-| Control dimensional | `evidencias/S16_E3_Control_Dimensional.png` | [ ] |  |
-| Plano final o documentación |  | [ ] |  |
-| Lista básica, si corresponde |  | [ ] |  |
-| Archivo de respaldo |  | [ ] |  |
-| Ficha completa |  | [ ] |  |
+| Estado inicial y auditoría | `evidencias/S16_E1_Estado_Inicial.png` | [x] | Captura del modelo final del organizador con sus dos componentes. |
+| Exportaciones y comprobación | `evidencias/S16_E2_Exportaciones.png` | [x] | Captura de los archivos PDF, DXF, STEP y STL. |
+| Plano final o documentación | `evidencias/S16_E4_Plano_Final.png` | [x] | Captura del plano técnico con sus vistas, cotas y cajetín. |
+| Lista básica, si corresponde | `evidencias/S16_E5_Lista_Componentes.png` | [x] | Identificación de las dos piezas del organizador. |
+| Archivo de respaldo | `ICT404_PROY_F04_ARCHIVO STEP.step` | [x] | Modelo tridimensional exportado en formato STEP. |
+| Ficha completa | `S16_Registro_Laboratorio_II-B_Huertas_Nahomy.md` | [x] | Bitácora con la descripción, comprobaciones y evidencias de la Fase 04. |
 
 ## Separación de la Fase 4
 
 **¿Qué producto o archivo adicional exige la rúbrica de la Fase 4?**
 
+La Fase 4 solicita la documentación técnica final del proyecto, incluyendo el plano técnico y los archivos exportados en formatos PDF, DXF, STEP y STL.
+
 **¿Qué evidencia de esta ficha puede reutilizarse en la Fase 4?**
 
+Puedo reutilizar las capturas del modelo final, las vistas del plano técnico, la aplicación de la tolerancia y las comprobaciones de las dimensiones de los componentes.
+
 **¿Qué requisito de la Fase 4 todavía no está cubierto por esta ficha?**
+
+La revisión final de todos los archivos exportados y la comprobación de que el plano técnico coincida completamente con el modelo tridimensional.
 
 ## Cierre reflexivo
 
 **¿Qué exportación requirió más comprobación y por qué?**
 
-**¿Qué diferencia encontró entre el valor nominal, la tolerancia y el valor observado?**
+La exportación en PDF requirió especial atención porque debía asegurarme de que las vistas, las cotas, la escala y la información del cajetín fueran legibles y correspondieran al modelo final.
+
+**¿Qué diferencia encontré entre el valor nominal, la tolerancia y el valor observado?**
+
+Comprendí que el valor nominal es la dimensión establecida en el diseño, la tolerancia representa el margen de variación permitido y el valor observado corresponde a la medida obtenida al realizar la comprobación en Fusion.
 
 **¿Qué corrección mejoró la confiabilidad del producto técnico?**
 
-**¿Qué limitación debe comunicar antes de considerar terminada la Fase 4?**
+La configuración de la tolerancia por desviación en la altura de la barra de retención permitió establecer límites dimensionales más claros para esta característica del organizador.
+
+**¿Qué limitación debo comunicar antes de considerar terminada la Fase 4?**
+
+Las comprobaciones realizadas en Fusion corresponden al modelo digital y no garantizan que las dimensiones de una pieza fabricada sean exactamente iguales. Para comprobarlo sería necesario realizar mediciones físicas.
