@@ -7,7 +7,7 @@
 **Estudiante o equipo:** Huertas Nahomy
 **Proyecto:** Organizador de escritorio para libros y cuadernos
 **Fecha:** 05 de noviembre de 2026
-**Versión inicial:** ``
+**Versión inicial:** `hgvfh`
 **Versión evaluada:** `nombre_proyecto_v__`
 
 ## Propósito y alcance
@@ -44,27 +44,28 @@ Los textos que comienzan con **Ejemplo:** muestran el nivel de detalle esperado.
 
 | Elemento | Registro |
 |---|---|
-| Archivo o enlace principal | Ejemplo: `Data Panel > Proyecto > Soporte_v04` |
-| Versión revisada | Ejemplo: `Soporte_v04`, no solo ``versión final'' |
-| Fecha de la versión | Ejemplo: `05-11-2026` |
-| Unidades del proyecto | Ejemplo: `mm`, comprobado en `Document Settings > Units` |
-| Plano o Drawing utilizado | Ejemplo: `Drawing_Fase4`, hoja 1 |
-| Ensamblaje utilizado, si corresponde | Ejemplo: `Ensamblaje_Soporte`, componente raíz activo |
-| Lista básica de componentes, si corresponde | Ejemplo: `Parts List` con 3 componentes |
-| Ubicación del respaldo inicial | Ejemplo: `Proyecto_v04_respaldo` |
-| Problema prioritario encontrado | Ejemplo: el PDF corresponde a una versión anterior del modelo |
+| Archivo o enlace principal |  `Data Panel > Proyecto > ICT404_PROY_F03_NahomyHuertas` |
+| Versión revisada |  `ICT404_PROY_F03_NahomyHuertas` |
+| Fecha de la versión |  `23-10-2026` |
+| Unidades del proyecto | `mm` |
+| Plano o Drawing utilizado |  `ICT401_PROY_F04_NahomyHuertas Dibujo`  |
+| Ensamblaje utilizado, si corresponde |  `ICT404_PROY_F03_NahomyHuertas` |
+| Lista básica de componentes, si corresponde | `Parts List` con 2 componentes |
+| Ubicación del respaldo inicial |  `Proyecto_v04_respaldo_Huertas_Nahomy` |
+| Problema prioritario encontrado | N/A |
 
 ### Revisión de coherencia
 
 | Control | Sí | No | N.A. | Evidencia o corrección |
 |---|:---:|:---:|:---:|---|
-| El modelo y la documentación corresponden a la misma versión. | [ ] | [ ] | [ ] | Ejemplo: captura del nombre `v04` en modelo y plano |
-| El plano contiene las vistas, cotas y datos que corresponden. | [ ] | [ ] | [ ] | Ejemplo: cota del agujero coincide con el modelo |
-| El cajetín o identificación está completo según la plantilla. | [ ] | [ ] | [ ] | Ejemplo: título, autoría, fecha y escala visibles |
-| La lista coincide con el ensamblaje, cuando corresponde. | [ ] | [ ] | [ ] | Ejemplo: 3 ítems en Browser y `Parts List` |
-| La orientación y la escala son coherentes. | [ ] | [ ] | [ ] | Ejemplo: Drawing en mm y escala 1:1 |
+| El modelo y la documentación corresponden a la misma versión. | [x] | [ ] | [ ] | El modelo 3D y el plano técnico corresponden a la versión final del organizador. |
+| El plano contiene las vistas, cotas y datos que corresponden. | [x] | [ ] | [ ] | Se incluyen las vistas superior, frontal, derecha y explosionada, con sus dimensiones correspondientes. |
+| El cajetín o identificación está completo según la plantilla. | [x] | [ ] | [ ] | Se incluye el nombre del proyecto, autoría, fecha y escala. |
+| La lista coincide con el ensamblaje, cuando corresponde. | [x] | [ ] | [ ] | La lista de materiales coincide con las dos piezas que conforman el organizador. |
+| La orientación y la escala son coherentes. | [x] | [ ] | [ ] | Drawing en mm y escala 1:1 |
 
-**Captura del estado inicial:** `evidencias/S16_E1_Estado_Inicial.png`  
+**Captura del estado inicial:** `evidenciasS16_E1_Estado_Inicial.png`  
+
 **Corrección prioritaria antes de exportar:**
 
 ## Lección 2. Exportaciones y comprobación de archivos
@@ -73,11 +74,11 @@ En Fusion, seleccione primero el objeto correcto en el **Browser**. No exporte t
 
 | Formato | Propósito | Configuración relevante | Archivo generado | Comprobado |
 |---|---|---|---|:---:|
-| STL | Ejemplo: malla para impresión 3D | Ejemplo: `Save As Mesh`, unidades mm | Ejemplo: `Soporte_STL_v04` | [ ] |
-| STEP | Ejemplo: intercambio de geometría 3D | Ejemplo: `File > Export`, componente seleccionado | Ejemplo: `Soporte_STEP_v04` | [ ] |
-| DXF | Ejemplo: perfil 2D para intercambio | Ejemplo: sketch o Drawing seleccionado | Ejemplo: `Perfil_DXF_v04` | [ ] |
-| PDF | Ejemplo: documentación del Drawing | Ejemplo: hojas, orientación y escala | Ejemplo: `Plano_PDF_v04` | [ ] |
-| Otro | Escriba el propósito | Escriba la configuración | Escriba el nombre | [ ] |
+| STL | Obtener el modelo 3D para impresión. | Exportación de la geometría en formato STL, unidades mm. | `ICT401_PROY_F04_ARCHIVO STL.stl` | [x] |
+| STEP | Compartir el modelo 3D y conservar su geometría. | Exportación del modelo en formato STEP. | `ICT404_PROY_F04_ARCHIVO STEP.step` | [x] |
+| DXF | Permitir la edición e intercambio del plano técnico. | Exportación del Drawing en formato DXF. | `ICT401_PROY_F04_ARCHIVO DXF.dxf` | [x] |
+| PDF | Presentar la documentación técnica del organizador. | Exportación del Drawing con sus vistas, cotas y escala. | `ICT401_PROY_F04_ARCHIVO PDF.pdf` | [x] |
+| Otro | No se generaron otros formatos adicionales. | No aplica. | No aplica. | [N.A] |
 
 Marque `N.A.` cuando un formato no corresponda al proyecto y justifique la decisión.
 
@@ -85,14 +86,14 @@ Marque `N.A.` cuando un formato no corresponda al proyecto y justifique la decis
 
 | Archivo | Geometría | Unidades | Escala/orientación | Versión | Ubicación | Resultado |
 |---|:---:|:---:|:---:|:---:|---|---|
-| Ejemplo: `Plano_PDF_v04` | [x] | [x] | [x] | [x] | `salidas/` | 4 hojas legibles |
-|  | [ ] | [ ] | [ ] | [ ] |  |  |
-|  | [ ] | [ ] | [ ] | [ ] |  |  |
-|  | [ ] | [ ] | [ ] | [ ] |  |  |
+| `ICT401_PROY_F04_ARCHIVO PDF.pdf` | [x] | [x] | [x] | [x] | `salidas/` | Plano técnico legible con sus vistas y cotas. |
+| `ICT401_PROY_F04_ARCHIVO DXF.dxf` | [x] | [x] | [x] | [x] | `salidas/` | Archivo editable del plano técnico. |
+| `ICT404_PROY_F04_ARCHIVO STEP.step` | [x] | [x] | [x] | [x] | `salidas/` | Modelo 3D exportado con sus dos piezas. |
+| `ICT401_PROY_F04_ARCHIVO STL.stl` | [x] | [x] | [x] | [x] | `salidas/` | Modelo 3D preparado para impresión. |
 
 **Archivo o captura de comprobación:** `evidencias/S16_E2_Exportaciones.png`  
-**Discrepancia encontrada:**  
-**Corrección aplicada:**  
+**Discrepancia encontrada:**  No se encontraron discrepancias durante la comprobación de los archivos
+**Corrección aplicada:** N.A 
 
 ## Lección 3. Tolerancias y control dimensional básico
 
@@ -102,19 +103,13 @@ No agregue una tolerancia que no esté indicada en el plano, la rúbrica o la in
 
 | Característica | Dimensión nominal | Tolerancia | Límite inferior | Límite superior | Valor observado | Unidad |
 |---|---:|---:|---:|---:|---:|---|
-| Ejemplo: diámetro de agujero | 16 | ±0,2 | 15,8 | 16,2 | 16,1 | mm |
-| 2 |  |  |  |  |  |  |
-| 3 |  |  |  |  |  |  |
-| 4 |  |  |  |  |  |  |
+| Altura de la barra de retención | 17,5 | +0,5 / -0,2 | 17,3 | 18,0 | 17,5 | mm |
 
 ### Método y resultado
 
 | Característica | Herramienta o método | Resultado | Limitación de la comprobación |
 |---|---|---|---|
-| Ejemplo: diámetro de agujero | `Inspect > Measure`, diámetro | Conforme | Medición digital; no certifica una pieza fabricada |
-| 2 |  | Conforme / revisar / N.A. |  |
-| 3 |  | Conforme / revisar / N.A. |  |
-| 4 |  | Conforme / revisar / N.A. |  |
+| Altura de la barra de retención | `Inspect > Measure`, medición de distancia | Conforme | Permite revisar la dimensión nominal, pero no garantiza el cumplimiento de la tolerancia en una pieza fabricada. |
 
 **Ejemplo de cálculo, si corresponde:**
 
