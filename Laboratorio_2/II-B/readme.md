@@ -5,9 +5,9 @@
 **Laboratorio:** Integrador II-B
 **Valor del laboratorio:** 10 %
 **Estudiante o equipo:** Huertas Nahomy
-**Proyecto:** Nombre breve del Proyecto Integrador
+**Proyecto:** Organizador de escritorio para libros y cuadernos
 **Fecha:** 05 de noviembre de 2026
-**Versión inicial:** `nombre_proyecto_v__`
+**Versión inicial:** ``
 **Versión evaluada:** `nombre_proyecto_v__`
 
 ## Propósito y alcance
